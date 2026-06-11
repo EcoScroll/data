@@ -1,47 +1,69 @@
 {
-  "B091J7VC62": {
-    "value": 8.95,
-    "raw": "$8.95",
+  "B095X27PZK": {
+    "value": 13.9,
+    "raw": "$13.90",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 376,
+    "ratings_total": 708,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:00:23.262Z"
+    "asOf": "2026-06-11T22:07:50.899Z"
   },
   "B07NFDJXVC": {
     "value": 12.95,
     "raw": "$12.95",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 2341,
+    "ratings_total": 2350,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:00:23.274Z"
+    "asOf": "2026-06-11T22:07:51.022Z"
   },
   "B093TDMSCW": {
     "value": 10,
     "raw": "$10.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 4722,
+    "ratings_total": 4732,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:00:24.870Z"
+    "asOf": "2026-06-11T22:07:51.891Z"
   },
-  "B095X27PZK": {
-    "value": 13.76,
-    "raw": "$13.76",
+  "B091J7VC62": {
+    "value": 8.95,
+    "raw": "$8.95",
     "currency": "USD",
-    "rating": 4.4,
-    "ratings_total": 703,
+    "rating": 4.5,
+    "ratings_total": 377,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:00:25.623Z"
+    "asOf": "2026-06-11T22:07:53.310Z"
+  },
+  "B09P24GP9M": {
+    "value": 6.99,
+    "raw": "$6.99",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 1313,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:07:57.365Z"
+  },
+  "B0BKBPCDJY": {
+    "value": 35.68,
+    "raw": "$35.68",
+    "currency": "USD",
+    "rating": 4.2,
+    "ratings_total": 40,
+    "in_stock": true,
+    "availability": "Only 15 left in stock (more on the way).",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:07:57.858Z"
   },
   "B0BKBW6XJB": {
     "value": 19.99,
@@ -52,73 +74,51 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:00:29.868Z"
-  },
-  "B09P24GP9M": {
-    "value": 6.99,
-    "raw": "$6.99",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 1300,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:00:31.326Z"
-  },
-  "B0BKBPCDJY": {
-    "value": 36.19,
-    "raw": "$36.19",
-    "currency": "USD",
-    "rating": 4.2,
-    "ratings_total": 40,
-    "in_stock": true,
-    "availability": "Only 12 left in stock (more on the way).",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:00:32.461Z"
+    "asOf": "2026-06-11T22:07:58.076Z"
   },
   "B0CPN28L8N": {
     "value": 18.99,
     "raw": "$18.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 2324,
+    "ratings_total": 2364,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:00:33.007Z"
-  },
-  "B007A4VY9A": {
-    "value": 11.99,
-    "raw": "$11.99",
-    "currency": "USD",
-    "rating": 4.8,
-    "ratings_total": 1013,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:00:38.620Z"
-  },
-  "B0F6F4XXMT": {
-    "value": 15.95,
-    "raw": "$15.95",
-    "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 590,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:00:39.231Z"
+    "asOf": "2026-06-11T22:08:01.342Z"
   },
   "B00ZTJC26C": {
     "value": 9.95,
     "raw": "$9.95",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 6723,
+    "ratings_total": 6739,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:08:03.403Z"
+  },
+  "B007A4VY9A": {
+    "value": 11.99,
+    "raw": "$11.99",
+    "currency": "USD",
+    "rating": 4.8,
+    "ratings_total": 1015,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:08:04.329Z"
+  },
+  "B0F6F4XXMT": {
+    "value": 15.95,
+    "raw": "$15.95",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 599,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:00:39.257Z"
+    "asOf": "2026-06-11T22:08:05.965Z"
   },
   "B0DLWZ62QB": {
     "value": null,
@@ -127,65 +127,54 @@
     "rating": 5,
     "ratings_total": 7,
     "in_stock": false,
-    "availability": null,
+    "availability": "Currently unavailable.",
     "no_buybox": true,
     "zip": "74110",
-    "asOf": "2026-06-05T17:00:39.955Z"
-  },
-  "B00JF2PYVE": {
-    "value": 9.96,
-    "raw": "$9.96",
-    "currency": "USD",
-    "rating": 4.8,
-    "ratings_total": 6460,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:00:46.716Z"
+    "asOf": "2026-06-11T22:08:07.118Z"
   },
   "B00JF2O4IS": {
     "value": 9.99,
     "raw": "$9.99",
     "currency": "USD",
     "rating": 4.8,
-    "ratings_total": 6703,
+    "ratings_total": 6734,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:00:47.818Z"
+    "asOf": "2026-06-11T22:08:10.455Z"
   },
-  "B001ET77O8": {
-    "value": 24.99,
-    "raw": "$24.99",
+  "B00JF2PYVE": {
+    "value": 9.99,
+    "raw": "$9.99",
     "currency": "USD",
     "rating": 4.8,
-    "ratings_total": 6703,
+    "ratings_total": 6507,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:00:48.454Z"
+    "asOf": "2026-06-11T22:08:10.774Z"
+  },
+  "B001ET77O8": {
+    "value": 24.79,
+    "raw": "$24.79",
+    "currency": "USD",
+    "rating": 4.8,
+    "ratings_total": 6734,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:08:12.949Z"
   },
   "B001E0T740": {
     "value": 9.99,
     "raw": "$9.99",
     "currency": "USD",
     "rating": 4.8,
-    "ratings_total": 5859,
+    "ratings_total": 5883,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:00:48.633Z"
-  },
-  "B0CZYQ3L8K": {
-    "value": 20,
-    "raw": "$20.00",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 29,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:00:53.844Z"
+    "asOf": "2026-06-11T22:08:13.445Z"
   },
   "B0CZY53XYV": {
     "value": 20,
@@ -196,18 +185,7 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:00:54.224Z"
-  },
-  "B000HJXQ9G": {
-    "value": 9.99,
-    "raw": "$9.99",
-    "currency": "USD",
-    "rating": 4.7,
-    "ratings_total": 40131,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:00:55.070Z"
+    "asOf": "2026-06-11T22:08:18.664Z"
   },
   "B0CZY4XMZM": {
     "value": 20,
@@ -218,195 +196,250 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:00:55.618Z"
+    "asOf": "2026-06-11T22:08:19.097Z"
+  },
+  "B000HJXQ9G": {
+    "value": 9.99,
+    "raw": "$9.99",
+    "currency": "USD",
+    "rating": 4.7,
+    "ratings_total": 40183,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:08:19.175Z"
+  },
+  "B0CZYQ3L8K": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 29,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:08:19.893Z"
+  },
+  "B01MXML7VI": {
+    "value": 16.83,
+    "raw": "$16.83",
+    "currency": "USD",
+    "rating": 4.7,
+    "ratings_total": 33034,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:08:25.566Z"
+  },
+  "B085S7TSXK": {
+    "value": 16.01,
+    "raw": "$16.01",
+    "currency": "USD",
+    "rating": 4.7,
+    "ratings_total": 33034,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:08:25.967Z"
   },
   "B00KA38J1E": {
     "value": 17.97,
     "raw": "$17.97",
     "currency": "USD",
     "rating": 4.7,
-    "ratings_total": 33026,
+    "ratings_total": 33034,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:00:59.615Z"
-  },
-  "B01MXML7VI": {
-    "value": 17.99,
-    "raw": "$17.99",
-    "currency": "USD",
-    "rating": 4.7,
-    "ratings_total": 33026,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:01:02.187Z"
+    "asOf": "2026-06-11T22:08:26.851Z"
   },
   "B0B6YG64BC": {
-    "value": 16.48,
-    "raw": "$16.48",
+    "value": 16.4,
+    "raw": "$16.40",
     "currency": "USD",
     "rating": 4.7,
-    "ratings_total": 33026,
+    "ratings_total": 33034,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:02.261Z"
-  },
-  "B085S7TSXK": {
-    "value": 15.21,
-    "raw": "$15.21",
-    "currency": "USD",
-    "rating": 4.7,
-    "ratings_total": 33026,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:01:03.417Z"
+    "asOf": "2026-06-11T22:08:27.268Z"
   },
   "B00KA38GYO": {
     "value": 17.95,
     "raw": "$17.95",
     "currency": "USD",
     "rating": 4.7,
-    "ratings_total": 33026,
+    "ratings_total": 33034,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:05.653Z"
+    "asOf": "2026-06-11T22:08:31.417Z"
   },
   "B00KA38GWQ": {
     "value": 17.97,
     "raw": "$17.97",
     "currency": "USD",
     "rating": 4.7,
-    "ratings_total": 33026,
+    "ratings_total": 33034,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:08.338Z"
-  },
-  "B08Z6ZDJM1": {
-    "value": 12.99,
-    "raw": "$12.99",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 3060,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:01:09.746Z"
+    "asOf": "2026-06-11T22:08:32.076Z"
   },
   "B093CTBP5W": {
     "value": 12.85,
     "raw": "$12.85",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 3060,
+    "ratings_total": 3068,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:08:33.260Z"
+  },
+  "B08Z6ZDJM1": {
+    "value": 12.99,
+    "raw": "$12.99",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 3068,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:10.876Z"
+    "asOf": "2026-06-11T22:08:33.883Z"
   },
   "B0GQX14VLM": {
     "value": 12.99,
     "raw": "$12.99",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 3060,
+    "ratings_total": 3068,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:12.329Z"
+    "asOf": "2026-06-11T22:08:36.417Z"
   },
   "B0GQWVYXWV": {
     "value": 12.99,
     "raw": "$12.99",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 3060,
+    "ratings_total": 3068,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:14.538Z"
-  },
-  "B08Z7QLPJD": {
-    "value": 12.99,
-    "raw": "$12.99",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 3060,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:01:16.547Z"
+    "asOf": "2026-06-11T22:08:38.036Z"
   },
   "B0BCH724Q7": {
     "value": null,
     "raw": null,
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 3060,
+    "ratings_total": 3068,
     "in_stock": false,
     "availability": "Currently unavailable.",
     "no_buybox": true,
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:17.146Z"
+    "asOf": "2026-06-11T22:08:38.376Z"
+  },
+  "B08Z7QLPJD": {
+    "value": 12.99,
+    "raw": "$12.99",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 3068,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:08:40.330Z"
   },
   "B0GQWK986Q": {
     "value": 12.99,
     "raw": "$12.99",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 3060,
+    "ratings_total": 3068,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:20.169Z"
-  },
-  "B0B9D8BGM9": {
-    "value": 12.99,
-    "raw": "$12.99",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 3060,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:01:24.296Z"
+    "asOf": "2026-06-11T22:08:43.263Z"
   },
   "B08Z74M38C": {
     "value": 12.99,
     "raw": "$12.99",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 3060,
+    "ratings_total": 3068,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:26.067Z"
-  },
-  "B0GQWCHVX4": {
-    "value": 12.99,
-    "raw": "$12.99",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 3060,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:01:27.043Z"
+    "asOf": "2026-06-11T22:08:45.101Z"
   },
   "B08YXXJGGM": {
     "value": 12.99,
     "raw": "$12.99",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 3060,
+    "ratings_total": 3068,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:27.980Z"
+    "asOf": "2026-06-11T22:08:45.492Z"
+  },
+  "B0B9D8BGM9": {
+    "value": 12.99,
+    "raw": "$12.99",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 3068,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:08:46.217Z"
+  },
+  "B0GQWCHVX4": {
+    "value": 12.99,
+    "raw": "$12.99",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 3068,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:08:49.791Z"
+  },
+  "B083S6T886": {
+    "value": 9.99,
+    "raw": "$9.99",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 50983,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:08:51.443Z"
+  },
+  "B001E117LK": {
+    "value": 29.99,
+    "raw": "$29.99",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 605,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:08:51.535Z"
+  },
+  "B0793GMPX5": {
+    "value": 26.99,
+    "raw": "$26.99",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 2063,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:08:52.986Z"
   },
   "B0DH41LXQY": {
     "value": 21.95,
@@ -414,43 +447,10 @@
     "currency": "USD",
     "rating": 4.9,
     "ratings_total": 16,
-    "in_stock": true,
-    "availability": "Only 1 left in stock - order soon.",
+    "in_stock": false,
+    "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:32.178Z"
-  },
-  "B001E117LK": {
-    "value": 26.99,
-    "raw": "$26.99",
-    "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 605,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:01:32.389Z"
-  },
-  "B083S6T886": {
-    "value": 9.99,
-    "raw": "$9.99",
-    "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 50896,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:01:32.595Z"
-  },
-  "B0793GMPX5": {
-    "value": 26.99,
-    "raw": "$26.99",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 2056,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:01:34.100Z"
+    "asOf": "2026-06-11T22:08:54.286Z"
   },
   "B0DH434NLL": {
     "value": 11.95,
@@ -461,7 +461,29 @@
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:38.013Z"
+    "asOf": "2026-06-11T22:08:56.799Z"
+  },
+  "B0DH42ZY2M": {
+    "value": 11.95,
+    "raw": "$11.95",
+    "currency": "USD",
+    "rating": 4.4,
+    "ratings_total": 20,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:08:57.477Z"
+  },
+  "B0DH43LK9T": {
+    "value": 21.95,
+    "raw": "$21.95",
+    "currency": "USD",
+    "rating": 4.9,
+    "ratings_total": 16,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:08:57.835Z"
   },
   "B0DH4348YN": {
     "value": 11.95,
@@ -474,31 +496,7 @@
     "redirected": true,
     "returned_asin": "B0DH42L3Z8",
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:39.243Z"
-  },
-  "B0DH43LK9T": {
-    "value": 21.95,
-    "raw": "$21.95",
-    "currency": "USD",
-    "rating": 4.9,
-    "ratings_total": 16,
-    "in_stock": false,
-    "availability": null,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:01:39.244Z"
-  },
-  "B0DH42ZY2M": {
-    "value": 21.95,
-    "raw": "$21.95",
-    "currency": "USD",
-    "rating": 4.9,
-    "ratings_total": 16,
-    "in_stock": false,
-    "availability": null,
-    "redirected": true,
-    "returned_asin": "B0DH43LK9T",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:01:40.359Z"
+    "asOf": "2026-06-11T22:08:59.901Z"
   },
   "B0DH42L3Z8": {
     "value": 11.95,
@@ -509,18 +507,7 @@
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:42.210Z"
-  },
-  "B0DH42P2J4": {
-    "value": 21.95,
-    "raw": "$21.95",
-    "currency": "USD",
-    "rating": 4.9,
-    "ratings_total": 16,
-    "in_stock": true,
-    "availability": "Only 2 left in stock - order soon.",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:01:43.380Z"
+    "asOf": "2026-06-11T22:09:00.904Z"
   },
   "B0DH42T6JX": {
     "value": 21.95,
@@ -529,11 +516,20 @@
     "rating": 4.9,
     "ratings_total": 16,
     "in_stock": false,
-    "availability": "Only 1 left in stock - order soon.",
-    "redirected": true,
-    "returned_asin": "B0DH41LXQY",
+    "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:44.427Z"
+    "asOf": "2026-06-11T22:09:02.592Z"
+  },
+  "B0DH42P2J4": {
+    "value": 21.95,
+    "raw": "$21.95",
+    "currency": "USD",
+    "rating": 4.9,
+    "ratings_total": 16,
+    "in_stock": true,
+    "availability": "Only 1 left in stock - order soon.",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:09:02.776Z"
   },
   "B0DH42PGZV": {
     "value": 21.95,
@@ -544,7 +540,29 @@
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:47.026Z"
+    "asOf": "2026-06-11T22:09:05.561Z"
+  },
+  "B0DH43GB2M": {
+    "value": 11.95,
+    "raw": "$11.95",
+    "currency": "USD",
+    "rating": 4.4,
+    "ratings_total": 20,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:09:07.975Z"
+  },
+  "B07DTL6DCX": {
+    "value": 9.99,
+    "raw": "$9.99",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 4553,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:09:09.044Z"
   },
   "B0DH41ZCQ8": {
     "value": 11.95,
@@ -555,152 +573,150 @@
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:47.243Z"
-  },
-  "B0DH43GB2M": {
-    "value": 21.95,
-    "raw": "$21.95",
-    "currency": "USD",
-    "rating": 4.9,
-    "ratings_total": 16,
-    "in_stock": false,
-    "availability": null,
-    "redirected": true,
-    "returned_asin": "B0DH42PGZV",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:01:47.941Z"
-  },
-  "B07DTL6DCX": {
-    "value": 9.99,
-    "raw": "$9.99",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 4543,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:01:52.043Z"
-  },
-  "B075NN4DJ9": {
-    "value": 9.99,
-    "raw": "$9.99",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 1195,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:01:54.196Z"
+    "asOf": "2026-06-11T22:09:10.270Z"
   },
   "B094SL8X5H": {
     "value": 9.99,
     "raw": "$9.99",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 350,
+    "ratings_total": 349,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:54.247Z"
+    "asOf": "2026-06-11T22:09:11.550Z"
+  },
+  "B075NN4DJ9": {
+    "value": 9.99,
+    "raw": "$9.99",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 1196,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:09:13.856Z"
   },
   "B08YH8TS9W": {
     "value": 9.95,
     "raw": "$9.95",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 2337,
+    "ratings_total": 2343,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:01:54.422Z"
-  },
-  "B08YGXG7RZ": {
-    "value": 9.95,
-    "raw": "$9.95",
-    "currency": "USD",
-    "rating": 4.4,
-    "ratings_total": 2337,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:02:00.338Z"
-  },
-  "B08YH4LSMG": {
-    "value": 9.95,
-    "raw": "$9.95",
-    "currency": "USD",
-    "rating": 4.4,
-    "ratings_total": 2337,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:02:01.274Z"
-  },
-  "B08YH2Z31C": {
-    "value": 9.95,
-    "raw": "$9.95",
-    "currency": "USD",
-    "rating": 4.4,
-    "ratings_total": 2337,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:02:01.412Z"
+    "asOf": "2026-06-11T22:09:15.231Z"
   },
   "B08YHNR3KT": {
     "value": 9.95,
     "raw": "$9.95",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 2337,
+    "ratings_total": 2343,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:03.613Z"
+    "asOf": "2026-06-11T22:09:16.864Z"
+  },
+  "B08YH4LSMG": {
+    "value": 9.95,
+    "raw": "$9.95",
+    "currency": "USD",
+    "rating": 4.4,
+    "ratings_total": 2343,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:09:18.565Z"
+  },
+  "B08YH2Z31C": {
+    "value": 9.95,
+    "raw": "$9.95",
+    "currency": "USD",
+    "rating": 4.4,
+    "ratings_total": 2343,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:09:20.059Z"
+  },
+  "B08YGXG7RZ": {
+    "value": 9.95,
+    "raw": "$9.95",
+    "currency": "USD",
+    "rating": 4.4,
+    "ratings_total": 2343,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:09:22.353Z"
   },
   "B08R257HX7": {
     "value": 7.99,
     "raw": "$7.99",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 3763,
+    "ratings_total": 3801,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:06.890Z"
-  },
-  "B07NDWRT7W": {
-    "value": 21.96,
-    "raw": "$21.96",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 1581,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:02:07.503Z"
+    "asOf": "2026-06-11T22:09:25.218Z"
   },
   "B012801NFA": {
     "value": 15.58,
     "raw": "$15.58",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 2724,
+    "ratings_total": 2725,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:07.939Z"
+    "asOf": "2026-06-11T22:09:25.607Z"
+  },
+  "B07NDWRT7W": {
+    "value": 21.88,
+    "raw": "$21.88",
+    "currency": "USD",
+    "rating": 4.4,
+    "ratings_total": 1584,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:09:25.968Z"
   },
   "B00JJTZ6RA": {
     "value": 16.99,
     "raw": "$16.99",
     "currency": "USD",
     "rating": 4,
-    "ratings_total": 1083,
+    "ratings_total": 1087,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:10.374Z"
+    "asOf": "2026-06-11T22:09:29.366Z"
+  },
+  "B0DXFMNCCC": {
+    "value": 9.99,
+    "raw": "$9.99",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 841,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:09:32.286Z"
+  },
+  "B07L6MWNXS": {
+    "value": 12.9,
+    "raw": "$12.90",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 660,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:09:32.373Z"
   },
   "B00HDWTFTK": {
     "value": 11.99,
@@ -708,186 +724,175 @@
     "currency": "USD",
     "rating": 4.3,
     "ratings_total": 1261,
-    "in_stock": true,
-    "availability": "In Stock",
+    "in_stock": false,
+    "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:13.283Z"
-  },
-  "B0DXFMNCCC": {
-    "value": 9.99,
-    "raw": "$9.99",
-    "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 831,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:02:14.058Z"
-  },
-  "B07L6MWNXS": {
-    "value": 12,
-    "raw": "$12.00",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 658,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:02:14.667Z"
+    "asOf": "2026-06-11T22:09:34.785Z"
   },
   "B006B8G0QI": {
     "value": 12,
     "raw": "$12.00",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 658,
+    "ratings_total": 660,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:15.489Z"
+    "asOf": "2026-06-11T22:09:35.161Z"
   },
   "B01M33FVB0": {
     "value": 12,
     "raw": "$12.00",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 658,
+    "ratings_total": 660,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:18.462Z"
+    "asOf": "2026-06-11T22:09:37.382Z"
   },
   "B00N40VAZM": {
     "value": 12,
     "raw": "$12.00",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 658,
+    "ratings_total": 660,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:20.000Z"
-  },
-  "B0GTGDNTVK": {
-    "value": 14,
-    "raw": "$14.00",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 658,
-    "in_stock": false,
-    "availability": null,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:02:20.247Z"
+    "asOf": "2026-06-11T22:09:39.018Z"
   },
   "B01M6A3MAB": {
     "value": 12,
     "raw": "$12.00",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 658,
+    "ratings_total": 660,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:21.532Z"
+    "asOf": "2026-06-11T22:09:40.918Z"
   },
-  "B0GTG82434": {
+  "B0GTGDNTVK": {
     "value": 14,
     "raw": "$14.00",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 658,
-    "in_stock": false,
-    "availability": null,
+    "ratings_total": 660,
+    "in_stock": true,
+    "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:23.687Z"
+    "asOf": "2026-06-11T22:09:41.513Z"
   },
   "B0GWFWY2L8": {
     "value": 14,
     "raw": "$14.00",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 658,
-    "in_stock": false,
-    "availability": null,
+    "ratings_total": 660,
+    "in_stock": true,
+    "availability": "Only 4 left in stock (more on the way).",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:26.598Z"
+    "asOf": "2026-06-11T22:09:44.676Z"
+  },
+  "B0GTG82434": {
+    "value": 14,
+    "raw": "$14.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 660,
+    "in_stock": true,
+    "availability": "Only 6 left in stock (more on the way).",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:09:46.109Z"
   },
   "B005CQM6RC": {
     "value": 12,
     "raw": "$12.00",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 658,
+    "ratings_total": 660,
     "in_stock": true,
-    "availability": "Only 18 left in stock (more on the way).",
+    "availability": "Only 10 left in stock (more on the way).",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:27.820Z"
-  },
-  "B01M3P2N7Q": {
-    "value": 12,
-    "raw": "$12.00",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 658,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:02:28.638Z"
+    "asOf": "2026-06-11T22:09:46.505Z"
   },
   "B0GTGBX9FQ": {
     "value": 14,
     "raw": "$14.00",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 658,
+    "ratings_total": 660,
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:30.239Z"
+    "asOf": "2026-06-11T22:09:49.287Z"
   },
   "B082WN64RD": {
     "value": 11.49,
     "raw": "$11.49",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 7964,
+    "ratings_total": 7974,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:33.817Z"
+    "asOf": "2026-06-11T22:09:51.835Z"
+  },
+  "B01M3P2N7Q": {
+    "value": 11.82,
+    "raw": "$11.82",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 660,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:09:51.952Z"
   },
   "B08T2ZL7MV": {
     "value": 16.99,
     "raw": "$16.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 8746,
+    "ratings_total": 8767,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:35.870Z"
-  },
-  "B0BDCN9P5C": {
-    "value": 29.99,
-    "raw": "$29.99",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 11152,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:02:36.486Z"
+    "asOf": "2026-06-11T22:09:54.355Z"
   },
   "B0BDJ9M1TN": {
     "value": 23.99,
     "raw": "$23.99",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 11152,
+    "ratings_total": 11248,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:37.407Z"
+    "asOf": "2026-06-11T22:09:56.252Z"
+  },
+  "B0BDCN9P5C": {
+    "value": 28.79,
+    "raw": "$28.79",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 11248,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:09:56.942Z"
+  },
+  "B0CGV6TZHS": {
+    "value": 43.99,
+    "raw": "$43.99",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 11248,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:09:58.385Z"
   },
   "B07Z8Z9BDW": {
     "value": 24.99,
@@ -898,84 +903,73 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:39.964Z"
-  },
-  "B0CGV6TZHS": {
-    "value": 43.99,
-    "raw": "$43.99",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 11152,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:02:42.220Z"
-  },
-  "B08J156XKX": {
-    "value": 26.88,
-    "raw": "$26.88",
-    "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 716,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:02:43.447Z"
+    "asOf": "2026-06-11T22:09:59.362Z"
   },
   "B0917GV13P": {
     "value": 16.95,
     "raw": "$16.95",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 7159,
+    "ratings_total": 7181,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:44.175Z"
+    "asOf": "2026-06-11T22:10:04.329Z"
+  },
+  "B08J156XKX": {
+    "value": 26.88,
+    "raw": "$26.88",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 719,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:10:04.857Z"
   },
   "B08J16HNG4": {
     "value": 26.88,
     "raw": "$26.88",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 716,
+    "ratings_total": 719,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:46.231Z"
+    "asOf": "2026-06-11T22:10:04.859Z"
   },
   "B08J1BFL4W": {
     "value": 26.88,
     "raw": "$26.88",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 716,
+    "ratings_total": 719,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:47.358Z"
+    "asOf": "2026-06-11T22:10:05.857Z"
   },
   "B08J1QW265": {
     "value": 26.88,
     "raw": "$26.88",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 716,
+    "ratings_total": 719,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:48.572Z"
+    "asOf": "2026-06-11T22:10:09.969Z"
   },
   "B0CT5HRYZN": {
     "value": 8.98,
     "raw": "$8.98",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 1624,
+    "ratings_total": 1637,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:49.912Z"
+    "asOf": "2026-06-11T22:10:10.584Z"
   },
   "B00TIJJ5Q4": {
     "value": 16.95,
@@ -986,394 +980,361 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:53.093Z"
+    "asOf": "2026-06-11T22:10:11.859Z"
   },
   "B08H25RWXL": {
-    "value": 21.6,
-    "raw": "$21.60",
+    "value": 20.47,
+    "raw": "$20.47",
     "currency": "USD",
     "rating": 4.2,
     "ratings_total": 187,
-    "in_stock": true,
-    "availability": "In Stock",
+    "in_stock": false,
+    "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:53.523Z"
-  },
-  "B07LH7J4PZ": {
-    "value": 22.28,
-    "raw": "$22.28",
-    "currency": "USD",
-    "rating": 4.8,
-    "ratings_total": 4229,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:02:54.919Z"
+    "asOf": "2026-06-11T22:10:12.343Z"
   },
   "B07T9GHD55": {
     "value": 34.65,
     "raw": "$34.65",
     "currency": "USD",
     "rating": 4.8,
-    "ratings_total": 4229,
+    "ratings_total": 4232,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:02:56.797Z"
+    "asOf": "2026-06-11T22:10:16.144Z"
   },
-  "B0126LMDFK": {
-    "value": 17.87,
-    "raw": "$17.87",
+  "B07LH7J4PZ": {
+    "value": 22.28,
+    "raw": "$22.28",
     "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 13004,
+    "rating": 4.8,
+    "ratings_total": 4232,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:00.723Z"
+    "asOf": "2026-06-11T22:10:17.445Z"
   },
   "B0GF9W1LHM": {
     "value": 19.99,
     "raw": "$19.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 13004,
+    "ratings_total": 13007,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:01.337Z"
-  },
-  "B07MCVM6SQ": {
-    "value": 19.99,
-    "raw": "$19.99",
-    "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 13004,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:03:04.238Z"
+    "asOf": "2026-06-11T22:10:18.681Z"
   },
   "B07MMNL7R9": {
     "value": 19.99,
     "raw": "$19.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 13004,
+    "ratings_total": 13007,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:08.843Z"
+    "asOf": "2026-06-11T22:10:22.533Z"
   },
-  "B08YY87CB1": {
+  "B0126LMDFK": {
     "value": 19.99,
     "raw": "$19.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 13004,
+    "ratings_total": 13007,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:09.905Z"
+    "asOf": "2026-06-11T22:10:22.919Z"
+  },
+  "B07MCVM6SQ": {
+    "value": 19.99,
+    "raw": "$19.99",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 13007,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:10:24.248Z"
   },
   "B08THYXGVN": {
     "value": 19.99,
     "raw": "$19.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 13004,
+    "ratings_total": 13007,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:10.482Z"
+    "asOf": "2026-06-11T22:10:26.167Z"
   },
   "B0DGVT95CY": {
     "value": 18,
     "raw": "$18.00",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 13004,
+    "ratings_total": 13007,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:11.098Z"
+    "asOf": "2026-06-11T22:10:28.745Z"
   },
-  "B0GTN3BDCF": {
+  "B08YY87CB1": {
     "value": 19.99,
     "raw": "$19.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 13004,
+    "ratings_total": 13007,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:15.512Z"
+    "asOf": "2026-06-11T22:10:30.253Z"
   },
   "B0FLZFMN28": {
     "value": 19.99,
     "raw": "$19.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 13004,
+    "ratings_total": 13007,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:17.239Z"
+    "asOf": "2026-06-11T22:10:30.788Z"
+  },
+  "B0GTN3BDCF": {
+    "value": 19.99,
+    "raw": "$19.99",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 13007,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:10:32.806Z"
   },
   "B0FPXVN762": {
     "value": 19.99,
     "raw": "$19.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 13004,
+    "ratings_total": 13007,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:17.619Z"
+    "asOf": "2026-06-11T22:10:36.474Z"
   },
   "B08TJ31PRT": {
     "value": 19.99,
     "raw": "$19.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 13004,
+    "ratings_total": 13007,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:18.162Z"
+    "asOf": "2026-06-11T22:10:36.498Z"
   },
   "B08GTHGN49": {
     "value": 19.99,
     "raw": "$19.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 13004,
+    "ratings_total": 13007,
     "in_stock": true,
-    "availability": "Only 8 left in stock - order soon.",
+    "availability": "Only 2 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:21.911Z"
+    "asOf": "2026-06-11T22:10:36.835Z"
   },
   "B0F3Q7QP1K": {
     "value": 19.99,
     "raw": "$19.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 13004,
+    "ratings_total": 13007,
     "in_stock": false,
     "availability": "In Stock",
     "redirected": true,
     "returned_asin": "B0FLZFMN28",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:23.588Z"
-  },
-  "B01IMNPHX6": {
-    "value": 17.99,
-    "raw": "$17.99",
-    "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 13004,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:03:24.917Z"
+    "asOf": "2026-06-11T22:10:39.059Z"
   },
   "B00GK3R3K6": {
     "value": 18.99,
     "raw": "$18.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 13004,
+    "ratings_total": 13007,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:25.436Z"
+    "asOf": "2026-06-11T22:10:43.275Z"
   },
   "B0D49ZJ788": {
     "value": 24.99,
     "raw": "$24.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 13004,
+    "ratings_total": 13007,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:28.448Z"
+    "asOf": "2026-06-11T22:10:43.332Z"
+  },
+  "B01IMNPHX6": {
+    "value": 17.99,
+    "raw": "$17.99",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 13007,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:10:44.187Z"
   },
   "B0GM2DT1LL": {
     "value": 24.99,
     "raw": "$24.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 13004,
+    "ratings_total": 13007,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:30.880Z"
-  },
-  "B0F3QLYWLS": {
-    "value": 24.99,
-    "raw": "$24.99",
-    "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 13004,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:03:31.682Z"
+    "asOf": "2026-06-11T22:10:45.718Z"
   },
   "B0GPH5X86Y": {
     "value": 24.99,
     "raw": "$24.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 13004,
-    "in_stock": true,
-    "availability": "In Stock",
+    "ratings_total": 13007,
+    "in_stock": false,
+    "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:32.532Z"
+    "asOf": "2026-06-11T22:10:50.185Z"
   },
-  "B08T32QLNY": {
-    "value": 6.61,
-    "raw": "$6.61",
+  "B0F3QLYWLS": {
+    "value": 24.99,
+    "raw": "$24.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 4628,
+    "ratings_total": 13007,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:37.381Z"
+    "asOf": "2026-06-11T22:10:51.237Z"
   },
   "B08HHCBLFZ": {
     "value": 69,
     "raw": "$69.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 382,
+    "ratings_total": 386,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:38.040Z"
+    "asOf": "2026-06-11T22:10:52.070Z"
+  },
+  "B08T32QLNY": {
+    "value": 6.61,
+    "raw": "$6.61",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 4651,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:10:52.553Z"
   },
   "B0B7K2LM8T": {
     "value": 69,
     "raw": "$69.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 382,
+    "ratings_total": 386,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:39.155Z"
-  },
-  "B08HGKW49Z": {
-    "value": 69,
-    "raw": "$69.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 382,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:03:41.408Z"
+    "asOf": "2026-06-11T22:10:56.889Z"
   },
   "B0BM4R6T76": {
     "value": 69,
     "raw": "$69.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 382,
+    "ratings_total": 386,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:42.951Z"
+    "asOf": "2026-06-11T22:10:58.547Z"
+  },
+  "B08HGKW49Z": {
+    "value": 69,
+    "raw": "$69.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 386,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:10:58.912Z"
   },
   "B08HJBJKFX": {
     "value": 69,
     "raw": "$69.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 382,
+    "ratings_total": 386,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:44.580Z"
+    "asOf": "2026-06-11T22:11:00.348Z"
   },
   "B0DPHDW3YP": {
     "value": 69,
     "raw": "$69.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 382,
+    "ratings_total": 386,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:47.447Z"
-  },
-  "B09HNZ5FHH": {
-    "value": 69,
-    "raw": "$69.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 382,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:03:47.663Z"
+    "asOf": "2026-06-11T22:11:03.969Z"
   },
   "B0B7K34TZS": {
     "value": 69,
     "raw": "$69.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 382,
+    "ratings_total": 386,
     "in_stock": true,
-    "availability": "Only 6 left in stock - order soon.",
+    "availability": "Only 7 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:50.113Z"
+    "asOf": "2026-06-11T22:11:05.770Z"
+  },
+  "B09HNZ5FHH": {
+    "value": 69,
+    "raw": "$69.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 386,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:11:06.468Z"
   },
   "B0GL8L55VM": {
     "value": 69,
     "raw": "$69.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 382,
+    "ratings_total": 386,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:51.797Z"
-  },
-  "B0GL8L2WG2": {
-    "value": 69,
-    "raw": "$69.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 382,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:03:54.379Z"
-  },
-  "B09HNZ45FR": {
-    "value": 69,
-    "raw": "$69.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 382,
-    "in_stock": false,
-    "availability": null,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:03:54.846Z"
-  },
-  "B07N6NCLMK": {
-    "value": 40,
-    "raw": "$40.00",
-    "currency": "USD",
-    "rating": 4.4,
-    "ratings_total": 29,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:03:56.773Z"
+    "asOf": "2026-06-11T22:11:09.565Z"
   },
   "B01GSSCIFW": {
     "value": 35.5,
@@ -1384,7 +1345,40 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:03:57.005Z"
+    "asOf": "2026-06-11T22:11:12.547Z"
+  },
+  "B0GL8L2WG2": {
+    "value": 69,
+    "raw": "$69.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 386,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:11:13.124Z"
+  },
+  "B07N6NCLMK": {
+    "value": 40,
+    "raw": "$40.00",
+    "currency": "USD",
+    "rating": 4.4,
+    "ratings_total": 29,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:11:14.031Z"
+  },
+  "B09HNZ45FR": {
+    "value": 69,
+    "raw": "$69.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 386,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:11:17.190Z"
   },
   "B07N6WQ2FG": {
     "value": 40,
@@ -1393,64 +1387,53 @@
     "rating": 4.6,
     "ratings_total": 28,
     "in_stock": false,
-    "availability": "Temporarily out of stock.",
+    "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:00.254Z"
+    "asOf": "2026-06-11T22:11:19.136Z"
   },
   "B0CSZ7FWXD": {
     "value": 15.99,
     "raw": "$15.99",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 3122,
+    "ratings_total": 3150,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:03.527Z"
+    "asOf": "2026-06-11T22:11:19.530Z"
   },
   "B0CGV7HPHM": {
     "value": 43.99,
     "raw": "$43.99",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 3122,
+    "ratings_total": 3150,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:04.144Z"
-  },
-  "B0DDMBG4QF": {
-    "value": 23.99,
-    "raw": "$23.99",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 3122,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:04:06.197Z"
+    "asOf": "2026-06-11T22:11:24.370Z"
   },
   "B0BYCJ11VL": {
     "value": 27.49,
     "raw": "$27.49",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 95,
+    "ratings_total": 96,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:09.166Z"
+    "asOf": "2026-06-11T22:11:24.613Z"
   },
   "B09P1Y9RXV": {
     "value": 24,
     "raw": "$24.00",
     "currency": "USD",
     "rating": 4.3,
-    "ratings_total": 2040,
+    "ratings_total": 2053,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:12.737Z"
+    "asOf": "2026-06-11T22:11:26.619Z"
   },
   "B0BYB843VJ": {
     "value": 25.99,
@@ -1461,7 +1444,18 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:12.828Z"
+    "asOf": "2026-06-11T22:11:29.504Z"
+  },
+  "B0DDMBG4QF": {
+    "value": 23.99,
+    "raw": "$23.99",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 3150,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:11:29.797Z"
   },
   "B003GWD7SG": {
     "value": 5.95,
@@ -1472,717 +1466,654 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:12.886Z"
+    "asOf": "2026-06-11T22:11:30.976Z"
   },
   "B01G98Y1BA": {
     "value": 19.98,
     "raw": "$19.98",
     "currency": "USD",
     "rating": 4.7,
-    "ratings_total": 31483,
+    "ratings_total": 31489,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:15.098Z"
-  },
-  "B0F7RBXKQF": {
-    "value": 28.9,
-    "raw": "$28.90",
-    "currency": "USD",
-    "rating": 4.4,
-    "ratings_total": 49,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:04:18.478Z"
+    "asOf": "2026-06-11T22:11:32.304Z"
   },
   "B00TXXPJBU": {
     "value": 140,
     "raw": "$140.00",
     "currency": "USD",
     "rating": 4.7,
-    "ratings_total": 5231,
+    "ratings_total": 5230,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:11:38.073Z"
+  },
+  "B0F7RBXKQF": {
+    "value": 28.9,
+    "raw": "$28.90",
+    "currency": "USD",
+    "rating": 4.4,
+    "ratings_total": 50,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:19.196Z"
+    "asOf": "2026-06-11T22:11:39.591Z"
   },
   "B00GA9P5P0": {
     "value": 19.95,
     "raw": "$19.95",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 71729,
+    "ratings_total": 71746,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:20.218Z"
+    "asOf": "2026-06-11T22:11:40.881Z"
   },
   "B0F7RFCNMY": {
     "value": 28.9,
     "raw": "$28.90",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 49,
-    "in_stock": true,
-    "availability": "In Stock",
+    "ratings_total": 50,
+    "in_stock": false,
+    "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:20.833Z"
+    "asOf": "2026-06-11T22:11:41.598Z"
   },
   "B0F7RFL3CP": {
     "value": 28.9,
     "raw": "$28.90",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 49,
+    "ratings_total": 50,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:23.172Z"
+    "asOf": "2026-06-11T22:11:43.150Z"
   },
   "B0F7RGSHBK": {
     "value": 28.9,
     "raw": "$28.90",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 49,
+    "ratings_total": 50,
     "in_stock": true,
-    "availability": "In Stock",
+    "availability": "Only 3 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:25.859Z"
+    "asOf": "2026-06-11T22:11:45.715Z"
   },
   "B08JRSZWFS": {
-    "value": 17.49,
-    "raw": "$17.49",
+    "value": 15.98,
+    "raw": "$15.98",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 3161,
+    "ratings_total": 3173,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:26.568Z"
+    "asOf": "2026-06-11T22:11:46.951Z"
   },
   "B08JSB5S65": {
-    "value": 17.49,
-    "raw": "$17.49",
+    "value": 15.98,
+    "raw": "$15.98",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 3161,
+    "ratings_total": 3173,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:27.707Z"
-  },
-  "B0GS7DVGKY": {
-    "value": 20,
-    "raw": "$20.00",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 24856,
-    "in_stock": false,
-    "availability": "In Stock",
-    "redirected": true,
-    "returned_asin": "B0GS74Z7L1",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:04:31.563Z"
+    "asOf": "2026-06-11T22:11:49.120Z"
   },
   "B08JS1L353": {
-    "value": 17.49,
-    "raw": "$17.49",
+    "value": 15.98,
+    "raw": "$15.98",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 3161,
+    "ratings_total": 3173,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:32.811Z"
-  },
-  "B0GS7442CF": {
-    "value": 20,
-    "raw": "$20.00",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 24856,
-    "in_stock": false,
-    "availability": "In Stock",
-    "redirected": true,
-    "returned_asin": "B0GS74JY7V",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:04:33.087Z"
-  },
-  "B0GS782WNL": {
-    "value": 20,
-    "raw": "$20.00",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 24856,
-    "in_stock": false,
-    "availability": "In Stock",
-    "redirected": true,
-    "returned_asin": "B0GVKSHRBN",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:04:33.998Z"
-  },
-  "B0GS74NH52": {
-    "value": 20,
-    "raw": "$20.00",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 24856,
-    "in_stock": false,
-    "availability": "Only 5 left in stock - order soon.",
-    "redirected": true,
-    "returned_asin": "B0GS76YYMS",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:04:37.426Z"
-  },
-  "B0GS771NCG": {
-    "value": 20,
-    "raw": "$20.00",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 24856,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:04:38.444Z"
+    "asOf": "2026-06-11T22:11:49.487Z"
   },
   "B0GS6V9QQJ": {
     "value": 28.5,
     "raw": "$28.50",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 248,
+    "ratings_total": 252,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:38.730Z"
+    "asOf": "2026-06-11T22:11:51.492Z"
   },
   "B0GS79T26K": {
     "value": 28.5,
     "raw": "$28.50",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 248,
+    "ratings_total": 252,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:39.564Z"
-  },
-  "B0GS74HBHC": {
-    "value": 28.5,
-    "raw": "$28.50",
-    "currency": "USD",
-    "rating": 4.4,
-    "ratings_total": 248,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:04:43.433Z"
+    "asOf": "2026-06-11T22:11:51.799Z"
   },
   "B0GS74JYCJ": {
     "value": 28.5,
     "raw": "$28.50",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 248,
-    "in_stock": true,
-    "availability": "In Stock",
+    "ratings_total": 252,
+    "in_stock": false,
+    "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:43.622Z"
+    "asOf": "2026-06-11T22:11:57.223Z"
   },
   "B0GS7577C7": {
     "value": 28.5,
     "raw": "$28.50",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 248,
+    "ratings_total": 252,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:43.789Z"
+    "asOf": "2026-06-11T22:11:58.135Z"
   },
   "B0GS79ZN7J": {
     "value": 28.5,
     "raw": "$28.50",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 248,
+    "ratings_total": 252,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:44.134Z"
+    "asOf": "2026-06-11T22:11:58.339Z"
+  },
+  "B0GS74HBHC": {
+    "value": 28.5,
+    "raw": "$28.50",
+    "currency": "USD",
+    "rating": 4.4,
+    "ratings_total": 252,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:11:59.938Z"
   },
   "B0GS74LR24": {
     "value": 28.5,
     "raw": "$28.50",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 248,
+    "ratings_total": 252,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:49.101Z"
-  },
-  "B0GS6YT7NN": {
-    "value": 28.5,
-    "raw": "$28.50",
-    "currency": "USD",
-    "rating": 4.4,
-    "ratings_total": 248,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:04:50.116Z"
-  },
-  "B0GS74GTCX": {
-    "value": 28.5,
-    "raw": "$28.50",
-    "currency": "USD",
-    "rating": 4.4,
-    "ratings_total": 248,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:04:50.974Z"
+    "asOf": "2026-06-11T22:12:03.442Z"
   },
   "B0GS77LLG1": {
     "value": 28.5,
     "raw": "$28.50",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 248,
+    "ratings_total": 252,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:53.833Z"
+    "asOf": "2026-06-11T22:12:03.586Z"
+  },
+  "B0GS6YT7NN": {
+    "value": 28.5,
+    "raw": "$28.50",
+    "currency": "USD",
+    "rating": 4.4,
+    "ratings_total": 252,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:12:03.856Z"
+  },
+  "B0GS74GTCX": {
+    "value": 28.5,
+    "raw": "$28.50",
+    "currency": "USD",
+    "rating": 4.4,
+    "ratings_total": 252,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:12:06.099Z"
   },
   "B0BTP3MGGF": {
     "value": 20,
     "raw": "$20.00",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
+    "ratings_total": 661,
     "in_stock": false,
     "availability": "In Stock",
     "redirected": true,
     "returned_asin": "B0BTP3XBBR",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:55.960Z"
-  },
-  "B0BTP3XBBR": {
-    "value": 20,
-    "raw": "$20.00",
-    "currency": "USD",
-    "rating": 4.2,
-    "ratings_total": 657,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:04:57.660Z"
+    "asOf": "2026-06-11T22:12:09.651Z"
   },
   "B0BTP3TB9C": {
     "value": 20,
     "raw": "$20.00",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
+    "ratings_total": 661,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:04:59.960Z"
+    "asOf": "2026-06-11T22:12:09.731Z"
+  },
+  "B0BTP3XBBR": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.2,
+    "ratings_total": 661,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:12:10.841Z"
   },
   "B0BTP3V1YP": {
-    "value": 20,
-    "raw": "$20.00",
+    "value": null,
+    "raw": null,
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
-    "in_stock": true,
-    "availability": "In Stock",
+    "ratings_total": 661,
+    "in_stock": false,
+    "availability": null,
+    "no_buybox": true,
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:00.231Z"
-  },
-  "B0BTP2XC8M": {
-    "value": 20,
-    "raw": "$20.00",
-    "currency": "USD",
-    "rating": 4.2,
-    "ratings_total": 657,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:05:02.608Z"
+    "asOf": "2026-06-11T22:12:12.710Z"
   },
   "B0BTP3W72C": {
     "value": 20,
     "raw": "$20.00",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
+    "ratings_total": 661,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:04.146Z"
+    "asOf": "2026-06-11T22:12:15.505Z"
+  },
+  "B0BTP2XC8M": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.2,
+    "ratings_total": 661,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:12:16.833Z"
   },
   "B0BTP27RV8": {
     "value": 20,
     "raw": "$20.00",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
+    "ratings_total": 661,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:06.714Z"
+    "asOf": "2026-06-11T22:12:17.030Z"
   },
   "B0GRKCJ5HR": {
     "value": 20,
     "raw": "$20.00",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
-    "in_stock": true,
-    "availability": "In Stock",
+    "ratings_total": 661,
+    "in_stock": false,
+    "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:07.978Z"
-  },
-  "B0GRKVK3Y7": {
-    "value": 20,
-    "raw": "$20.00",
-    "currency": "USD",
-    "rating": 4.2,
-    "ratings_total": 657,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:05:09.678Z"
-  },
-  "B0GRKHG5P5": {
-    "value": 20,
-    "raw": "$20.00",
-    "currency": "USD",
-    "rating": 4.2,
-    "ratings_total": 657,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:05:10.175Z"
+    "asOf": "2026-06-11T22:12:17.981Z"
   },
   "B0GRKDYBRP": {
     "value": 20,
     "raw": "$20.00",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
+    "ratings_total": 661,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:12.327Z"
-  },
-  "B0GRKNYBBP": {
-    "value": 20,
-    "raw": "$20.00",
-    "currency": "USD",
-    "rating": 4.2,
-    "ratings_total": 657,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:05:15.257Z"
-  },
-  "B0GRKP2Q2C": {
-    "value": 20,
-    "raw": "$20.00",
-    "currency": "USD",
-    "rating": 4.2,
-    "ratings_total": 657,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:05:15.478Z"
+    "asOf": "2026-06-11T22:12:22.280Z"
   },
   "B0GRKB821N": {
     "value": 20,
     "raw": "$20.00",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
+    "ratings_total": 661,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:16.433Z"
+    "asOf": "2026-06-11T22:12:23.156Z"
   },
-  "B0FB8VMP36": {
-    "value": 22.4,
-    "raw": "$22.40",
+  "B0GRKVK3Y7": {
+    "value": 20,
+    "raw": "$20.00",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
+    "ratings_total": 661,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:12:23.340Z"
+  },
+  "B0GRKHG5P5": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.2,
+    "ratings_total": 661,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:12:23.620Z"
+  },
+  "B0GRKNYBBP": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.2,
+    "ratings_total": 661,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:12:28.633Z"
+  },
+  "B0CNK41XRV": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.2,
+    "ratings_total": 661,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:12:29.360Z"
+  },
+  "B0FB8VMP36": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.2,
+    "ratings_total": 661,
     "in_stock": false,
-    "availability": "Only 1 left in stock - order soon.",
+    "availability": "In Stock",
     "redirected": true,
     "returned_asin": "B0CNK41XRV",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:17.866Z"
+    "asOf": "2026-06-11T22:12:29.445Z"
+  },
+  "B0GRKP2Q2C": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.2,
+    "ratings_total": 661,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:12:32.658Z"
   },
   "B0CNK42TTL": {
-    "value": null,
-    "raw": null,
+    "value": 20,
+    "raw": "$20.00",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
-    "in_stock": false,
-    "availability": null,
-    "no_buybox": true,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:05:21.236Z"
-  },
-  "B0CNK41XRV": {
-    "value": 22.4,
-    "raw": "$22.40",
-    "currency": "USD",
-    "rating": 4.2,
-    "ratings_total": 657,
+    "ratings_total": 661,
     "in_stock": true,
-    "availability": "Only 1 left in stock - order soon.",
+    "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:22.585Z"
+    "asOf": "2026-06-11T22:12:34.069Z"
   },
   "B0CNK3WHWF": {
     "value": null,
     "raw": null,
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
+    "ratings_total": 661,
     "in_stock": false,
     "availability": null,
     "no_buybox": true,
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:23.292Z"
+    "asOf": "2026-06-11T22:12:35.273Z"
   },
   "B0CNK4K5ZG": {
     "value": 20,
     "raw": "$20.00",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
+    "ratings_total": 661,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:23.825Z"
+    "asOf": "2026-06-11T22:12:36.409Z"
   },
   "B0FBG4RBR4": {
     "value": 20,
     "raw": "$20.00",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:05:26.859Z"
-  },
-  "B0BTYDQJTK": {
-    "value": 20,
-    "raw": "$20.00",
-    "currency": "USD",
-    "rating": 4.2,
-    "ratings_total": 657,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:05:27.500Z"
-  },
-  "B0GVLZKG4T": {
-    "value": 20,
-    "raw": "$20.00",
-    "currency": "USD",
-    "rating": 4.2,
-    "ratings_total": 657,
+    "ratings_total": 661,
     "in_stock": false,
-    "availability": "In Stock",
-    "redirected": true,
-    "returned_asin": "B0GRKCJ5HR",
+    "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:29.775Z"
+    "asOf": "2026-06-11T22:12:37.000Z"
   },
   "B0GRKHYJS2": {
     "value": 20,
     "raw": "$20.00",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
+    "ratings_total": 661,
     "in_stock": false,
     "availability": "In Stock",
     "redirected": true,
     "returned_asin": "B0GRKCJ5HR",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:30.362Z"
+    "asOf": "2026-06-11T22:12:40.807Z"
+  },
+  "B0BTYDQJTK": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.2,
+    "ratings_total": 661,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:12:40.893Z"
   },
   "B0GVLYHT1C": {
     "value": 20,
     "raw": "$20.00",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
+    "ratings_total": 661,
     "in_stock": false,
     "availability": "In Stock",
     "redirected": true,
     "returned_asin": "B0GRKCJ5HR",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:32.680Z"
+    "asOf": "2026-06-11T22:12:42.291Z"
+  },
+  "B0GVLZKG4T": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.2,
+    "ratings_total": 661,
+    "in_stock": false,
+    "availability": "In Stock",
+    "redirected": true,
+    "returned_asin": "B0GRKCJ5HR",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:12:43.368Z"
   },
   "B0GVHFP66F": {
     "value": 20,
     "raw": "$20.00",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
+    "ratings_total": 661,
     "in_stock": false,
     "availability": "In Stock",
     "redirected": true,
     "returned_asin": "B0GRKCJ5HR",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:34.766Z"
+    "asOf": "2026-06-11T22:12:45.842Z"
   },
   "B0GVH324DC": {
     "value": 20,
     "raw": "$20.00",
     "currency": "USD",
     "rating": 4.2,
-    "ratings_total": 657,
+    "ratings_total": 661,
     "in_stock": false,
     "availability": "In Stock",
     "redirected": true,
     "returned_asin": "B0GRKCJ5HR",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:35.172Z"
-  },
-  "B0GVLXVVFT": {
-    "value": 20,
-    "raw": "$20.00",
-    "currency": "USD",
-    "rating": 4.2,
-    "ratings_total": 657,
-    "in_stock": false,
-    "availability": "In Stock",
-    "redirected": true,
-    "returned_asin": "B0GRKCJ5HR",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:05:36.913Z"
+    "asOf": "2026-06-11T22:12:48.200Z"
   },
   "B07Y8JJQLK": {
     "value": 51.95,
     "raw": "$51.95",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 1185,
-    "in_stock": true,
-    "availability": "In Stock",
+    "ratings_total": 1189,
+    "in_stock": false,
+    "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:39.587Z"
+    "asOf": "2026-06-11T22:12:49.096Z"
+  },
+  "B0GVLXVVFT": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.2,
+    "ratings_total": 661,
+    "in_stock": false,
+    "availability": "In Stock",
+    "redirected": true,
+    "returned_asin": "B0GRKCJ5HR",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:12:50.953Z"
   },
   "B07Y8L5ZZH": {
     "value": 51.95,
     "raw": "$51.95",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 1185,
+    "ratings_total": 1189,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:40.603Z"
+    "asOf": "2026-06-11T22:12:52.474Z"
   },
   "B07Y8JWV8Q": {
     "value": 51.95,
     "raw": "$51.95",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 1185,
+    "ratings_total": 1189,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:41.828Z"
+    "asOf": "2026-06-11T22:12:53.598Z"
   },
   "B07Y8JY32H": {
     "value": 51.95,
     "raw": "$51.95",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 1185,
+    "ratings_total": 1189,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:43.992Z"
-  },
-  "B0FSLTL2NW": {
-    "value": 49.95,
-    "raw": "$49.95",
-    "currency": "USD",
-    "rating": 4.8,
-    "ratings_total": 38,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:05:46.131Z"
-  },
-  "B0FSLX5PHC": {
-    "value": 49.95,
-    "raw": "$49.95",
-    "currency": "USD",
-    "rating": 4.8,
-    "ratings_total": 38,
-    "in_stock": false,
-    "availability": "In Stock",
-    "redirected": true,
-    "returned_asin": "B0FSLTL2NW",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:05:46.133Z"
+    "asOf": "2026-06-11T22:12:54.815Z"
   },
   "B07Y8KG43M": {
     "value": 51.95,
     "raw": "$51.95",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 1185,
+    "ratings_total": 1189,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:47.051Z"
+    "asOf": "2026-06-11T22:12:57.198Z"
+  },
+  "B0FSLX5PHC": {
+    "value": 49.95,
+    "raw": "$49.95",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 40,
+    "in_stock": false,
+    "availability": "In Stock",
+    "redirected": true,
+    "returned_asin": "B0FSLTL2NW",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:12:58.197Z"
+  },
+  "B0FSLTL2NW": {
+    "value": 49.95,
+    "raw": "$49.95",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 40,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:12:58.520Z"
   },
   "B0FSLVWL6T": {
     "value": 49.95,
     "raw": "$49.95",
     "currency": "USD",
-    "rating": 4.8,
-    "ratings_total": 38,
+    "rating": 4.6,
+    "ratings_total": 40,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:50.534Z"
-  },
-  "B0FSLT9FRL": {
-    "value": 49.95,
-    "raw": "$49.95",
-    "currency": "USD",
-    "rating": 4.8,
-    "ratings_total": 38,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:05:50.921Z"
+    "asOf": "2026-06-11T22:12:59.847Z"
   },
   "B0FSLXVWJ9": {
     "value": 49.95,
     "raw": "$49.95",
     "currency": "USD",
-    "rating": 4.8,
-    "ratings_total": 38,
+    "rating": 4.6,
+    "ratings_total": 40,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:52.990Z"
+    "asOf": "2026-06-11T22:13:02.594Z"
+  },
+  "B0FSLT9FRL": {
+    "value": 49.95,
+    "raw": "$49.95",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 40,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:13:04.015Z"
   },
   "B07YBD3328": {
     "value": 29.99,
@@ -2193,7 +2124,7 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:53.685Z"
+    "asOf": "2026-06-11T22:13:05.075Z"
   },
   "B07YBCD11L": {
     "value": 29.99,
@@ -2201,32 +2132,12 @@
     "currency": "USD",
     "rating": 4.2,
     "ratings_total": 137,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:05:55.778Z"
-  },
-  "B07YBCFPR7": {
-    "value": 29.99,
-    "raw": "$29.99",
-    "currency": "USD",
-    "rating": 4.2,
-    "ratings_total": 137,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:05:56.256Z"
-  },
-  "B0DJRX8NFB": {
-    "value": 35,
-    "raw": "$35.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 112,
     "in_stock": false,
-    "availability": null,
+    "availability": "In Stock",
+    "redirected": true,
+    "returned_asin": "B07YBD3328",
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:59.341Z"
+    "asOf": "2026-06-11T22:13:05.972Z"
   },
   "B0DJRVV2M7": {
     "value": 35,
@@ -2237,7 +2148,29 @@
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:05:59.989Z"
+    "asOf": "2026-06-11T22:13:08.854Z"
+  },
+  "B07YBCFPR7": {
+    "value": 29.99,
+    "raw": "$29.99",
+    "currency": "USD",
+    "rating": 4.2,
+    "ratings_total": 137,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:13:08.977Z"
+  },
+  "B0DJRX8NFB": {
+    "value": 35,
+    "raw": "$35.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 112,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:13:09.962Z"
   },
   "B0DJRX4Z6B": {
     "value": 35,
@@ -2247,8 +2180,10 @@
     "ratings_total": 112,
     "in_stock": false,
     "availability": null,
+    "redirected": true,
+    "returned_asin": "B0DJRVV2M7",
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:01.594Z"
+    "asOf": "2026-06-11T22:13:13.245Z"
   },
   "B0DJRY3L43": {
     "value": 35,
@@ -2256,21 +2191,10 @@
     "currency": "USD",
     "rating": 4.5,
     "ratings_total": 112,
-    "in_stock": false,
-    "availability": null,
+    "in_stock": true,
+    "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:02.310Z"
-  },
-  "B0DJRY4XMD": {
-    "value": 35,
-    "raw": "$35.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 112,
-    "in_stock": false,
-    "availability": null,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:06:05.560Z"
+    "asOf": "2026-06-11T22:13:13.505Z"
   },
   "B0DJRXX7HW": {
     "value": 35,
@@ -2281,7 +2205,18 @@
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:05.589Z"
+    "asOf": "2026-06-11T22:13:14.928Z"
+  },
+  "B0DJRY4XMD": {
+    "value": 35,
+    "raw": "$35.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 112,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:13:15.319Z"
   },
   "B0DJRWLRGF": {
     "value": 35,
@@ -2292,7 +2227,7 @@
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:07.736Z"
+    "asOf": "2026-06-11T22:13:18.768Z"
   },
   "B0DJRXHPRS": {
     "value": 35,
@@ -2300,10 +2235,10 @@
     "currency": "USD",
     "rating": 4.5,
     "ratings_total": 112,
-    "in_stock": false,
-    "availability": null,
+    "in_stock": true,
+    "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:07.988Z"
+    "asOf": "2026-06-11T22:13:19.614Z"
   },
   "B0DJRXG4XD": {
     "value": 35,
@@ -2312,9 +2247,11 @@
     "rating": 4.5,
     "ratings_total": 112,
     "in_stock": false,
-    "availability": null,
+    "availability": "In Stock",
+    "redirected": true,
+    "returned_asin": "B0DJRXHPRS",
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:12.959Z"
+    "asOf": "2026-06-11T22:13:21.177Z"
   },
   "B0DJRXMWYM": {
     "value": 35,
@@ -2322,21 +2259,10 @@
     "currency": "USD",
     "rating": 4.5,
     "ratings_total": 112,
-    "in_stock": false,
-    "availability": null,
+    "in_stock": true,
+    "availability": "Only 3 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:13.469Z"
-  },
-  "B0DJRX5GTH": {
-    "value": 35,
-    "raw": "$35.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 112,
-    "in_stock": false,
-    "availability": null,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:06:13.715Z"
+    "asOf": "2026-06-11T22:13:26.470Z"
   },
   "B0DJRXGSXC": {
     "value": 35,
@@ -2347,40 +2273,18 @@
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:14.189Z"
+    "asOf": "2026-06-11T22:13:27.842Z"
   },
-  "B0DJRYNFNF": {
+  "B0DJRX5GTH": {
     "value": 35,
     "raw": "$35.00",
     "currency": "USD",
     "rating": 4.5,
     "ratings_total": 112,
-    "in_stock": false,
-    "availability": null,
+    "in_stock": true,
+    "availability": "Only 2 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:19.004Z"
-  },
-  "B0DJRZQ2LX": {
-    "value": 35,
-    "raw": "$35.00",
-    "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 175,
-    "in_stock": false,
-    "availability": null,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:06:19.896Z"
-  },
-  "B0DJRWJ8QC": {
-    "value": 35,
-    "raw": "$35.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 112,
-    "in_stock": false,
-    "availability": null,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:06:19.983Z"
+    "asOf": "2026-06-11T22:13:30.569Z"
   },
   "B0DJRX8XPH": {
     "value": 35,
@@ -2393,330 +2297,369 @@
     "redirected": true,
     "returned_asin": "B0DJRXGSXC",
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:21.051Z"
+    "asOf": "2026-06-11T22:13:30.669Z"
+  },
+  "B0DJRWJ8QC": {
+    "value": 35,
+    "raw": "$35.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 112,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:13:32.661Z"
+  },
+  "B0DJRYNFNF": {
+    "value": 35,
+    "raw": "$35.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 112,
+    "in_stock": false,
+    "availability": null,
+    "redirected": true,
+    "returned_asin": "B0DJRXGSXC",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:13:33.471Z"
   },
   "B0DJRYB6Y1": {
     "value": 35,
     "raw": "$35.00",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 175,
+    "ratings_total": 176,
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:24.531Z"
-  },
-  "B0DJRZCD3T": {
-    "value": 35,
-    "raw": "$35.00",
-    "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 175,
-    "in_stock": false,
-    "availability": null,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:06:25.892Z"
-  },
-  "B0DJRYB7S2": {
-    "value": 35,
-    "raw": "$35.00",
-    "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 175,
-    "in_stock": false,
-    "availability": null,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:06:26.219Z"
+    "asOf": "2026-06-11T22:13:35.998Z"
   },
   "B0DJS16S4N": {
     "value": 35,
     "raw": "$35.00",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 175,
+    "ratings_total": 176,
+    "in_stock": false,
+    "availability": null,
+    "redirected": true,
+    "returned_asin": "B0DJRZB9W3",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:13:39.450Z"
+  },
+  "B0DJRYB7S2": {
+    "value": 35,
+    "raw": "$35.00",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 176,
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:28.489Z"
+    "asOf": "2026-06-11T22:13:39.915Z"
+  },
+  "B0DJRZCD3T": {
+    "value": 35,
+    "raw": "$35.00",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 176,
+    "in_stock": true,
+    "availability": "Only 1 left in stock - order soon.",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:13:40.918Z"
   },
   "B0DJRYW22M": {
     "value": 35,
     "raw": "$35.00",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 175,
+    "ratings_total": 176,
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:30.983Z"
+    "asOf": "2026-06-11T22:13:44.500Z"
   },
-  "B0DJRYTMX7": {
+  "B0DJRZQ2LX": {
     "value": 35,
     "raw": "$35.00",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 175,
+    "ratings_total": 176,
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:31.698Z"
+    "asOf": "2026-06-11T22:13:45.623Z"
   },
   "B0DJRZZ6Q4": {
     "value": 35,
     "raw": "$35.00",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 175,
+    "ratings_total": 176,
+    "in_stock": true,
+    "availability": "Only 2 left in stock - order soon.",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:13:45.896Z"
+  },
+  "B0DJRYTMX7": {
+    "value": 35,
+    "raw": "$35.00",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 176,
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:33.133Z"
+    "asOf": "2026-06-11T22:13:46.378Z"
   },
   "B0DJRZZ7FV": {
     "value": 35,
     "raw": "$35.00",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 175,
+    "ratings_total": 176,
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:35.588Z"
-  },
-  "B0DJRYPMRG": {
-    "value": 35,
-    "raw": "$35.00",
-    "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 175,
-    "in_stock": false,
-    "availability": null,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:06:37.524Z"
+    "asOf": "2026-06-11T22:13:50.050Z"
   },
   "B0DJRYHQ58": {
     "value": 35,
     "raw": "$35.00",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 175,
+    "ratings_total": 176,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:13:51.248Z"
+  },
+  "B0DJRYPMRG": {
+    "value": 35,
+    "raw": "$35.00",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 176,
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:37.716Z"
+    "asOf": "2026-06-11T22:13:52.276Z"
   },
   "B0DJS1KJZV": {
     "value": 35,
     "raw": "$35.00",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 175,
+    "ratings_total": 176,
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:38.469Z"
+    "asOf": "2026-06-11T22:13:53.096Z"
   },
   "B0DJRYR132": {
     "value": 35,
     "raw": "$35.00",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 175,
+    "ratings_total": 176,
     "in_stock": false,
-    "availability": null,
+    "availability": "In Stock",
     "redirected": true,
     "returned_asin": "B0DJRYHQ58",
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:41.195Z"
+    "asOf": "2026-06-11T22:13:55.457Z"
   },
   "B0DJRZ91Z8": {
     "value": 35,
     "raw": "$35.00",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 175,
-    "in_stock": false,
-    "availability": null,
+    "ratings_total": 176,
+    "in_stock": true,
+    "availability": "Only 4 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:43.169Z"
+    "asOf": "2026-06-11T22:13:55.959Z"
   },
   "B0DJRYYH6Y": {
     "value": 35,
     "raw": "$35.00",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 175,
+    "ratings_total": 176,
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:43.261Z"
+    "asOf": "2026-06-11T22:13:57.911Z"
   },
   "B0DJRZ935W": {
     "value": 35,
     "raw": "$35.00",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 175,
+    "ratings_total": 176,
     "in_stock": false,
-    "availability": null,
+    "availability": "In Stock",
     "redirected": true,
     "returned_asin": "B0DJRYC36V",
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:43.332Z"
-  },
-  "B0DJRZJPLT": {
-    "value": 35,
-    "raw": "$35.00",
-    "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 175,
-    "in_stock": false,
-    "availability": null,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:06:46.855Z"
-  },
-  "B0DJRZ3C2V": {
-    "value": 35,
-    "raw": "$35.00",
-    "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 175,
-    "in_stock": false,
-    "availability": null,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:06:48.673Z"
-  },
-  "B09B2WPK7M": {
-    "value": 32.95,
-    "raw": "$32.95",
-    "currency": "USD",
-    "rating": 4.4,
-    "ratings_total": 296,
-    "in_stock": false,
-    "availability": null,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:06:48.741Z"
+    "asOf": "2026-06-11T22:13:59.995Z"
   },
   "B0DJRZ81L4": {
     "value": 35,
     "raw": "$35.00",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 175,
+    "ratings_total": 176,
     "in_stock": false,
     "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:48.979Z"
+    "asOf": "2026-06-11T22:14:01.492Z"
+  },
+  "B0DJRZJPLT": {
+    "value": 35,
+    "raw": "$35.00",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 176,
+    "in_stock": false,
+    "availability": null,
+    "redirected": true,
+    "returned_asin": "B0DJRZ81L4",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:14:05.693Z"
+  },
+  "B09B2WPK7M": {
+    "value": 32.95,
+    "raw": "$32.95",
+    "currency": "USD",
+    "rating": 4.4,
+    "ratings_total": 297,
+    "in_stock": true,
+    "availability": "Only 6 left in stock - order soon.",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:14:06.190Z"
   },
   "B07BSXLDCC": {
-    "value": 33.58,
-    "raw": "$33.58",
+    "value": 33.5,
+    "raw": "$33.50",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 2671,
-    "in_stock": true,
-    "availability": "In Stock",
+    "ratings_total": 2674,
+    "in_stock": false,
+    "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:53.102Z"
+    "asOf": "2026-06-11T22:14:09.058Z"
+  },
+  "B0DJRZ3C2V": {
+    "value": 35,
+    "raw": "$35.00",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 176,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:14:09.678Z"
   },
   "B07BSV25G5": {
     "value": 24,
     "raw": "$24.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 2671,
+    "ratings_total": 2674,
     "in_stock": false,
     "availability": "Temporarily out of stock.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:53.844Z"
+    "asOf": "2026-06-11T22:14:11.572Z"
   },
   "B07WTK1NFJ": {
-    "value": 24.99,
-    "raw": "$24.99",
+    "value": 22.99,
+    "raw": "$22.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 2671,
+    "ratings_total": 2674,
     "in_stock": false,
-    "availability": "Temporarily out of stock.",
+    "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:56.377Z"
+    "asOf": "2026-06-11T22:14:13.779Z"
   },
   "B07BSV2B1H": {
     "value": 24.99,
     "raw": "$24.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 2671,
+    "ratings_total": 2674,
     "in_stock": true,
-    "availability": "In Stock",
+    "availability": "Only 13 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:57.675Z"
+    "asOf": "2026-06-11T22:14:15.148Z"
   },
   "B07BSY5WJH": {
-    "value": 33.58,
-    "raw": "$33.58",
+    "value": 39.36,
+    "raw": "$39.36",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 2671,
+    "ratings_total": 2674,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:06:58.631Z"
+    "asOf": "2026-06-11T22:14:15.444Z"
   },
   "B07WRF8H6X": {
+    "value": 24,
+    "raw": "$24.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 2674,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:14:17.938Z"
+  },
+  "B07BRPWP6K": {
     "value": 22.99,
     "raw": "$22.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 2671,
-    "in_stock": true,
-    "availability": "Only 12 left in stock - order soon.",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:06:59.583Z"
-  },
-  "B07BRPWP6K": {
-    "value": 33.58,
-    "raw": "$33.58",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 2671,
+    "ratings_total": 2674,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:03.037Z"
+    "asOf": "2026-06-11T22:14:19.311Z"
   },
   "B07BSV24W3": {
     "value": 22.99,
     "raw": "$22.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 2671,
+    "ratings_total": 2674,
     "in_stock": true,
-    "availability": "In Stock",
+    "availability": "Only 11 left in stock (more on the way).",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:04.075Z"
+    "asOf": "2026-06-11T22:14:20.766Z"
   },
   "B07BSXLDC7": {
     "value": 24,
     "raw": "$24.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 2671,
+    "ratings_total": 2674,
     "in_stock": false,
     "availability": "Temporarily out of stock.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:04.118Z"
+    "asOf": "2026-06-11T22:14:21.361Z"
   },
   "B07C9QCXF4": {
     "value": 22.99,
     "raw": "$22.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 2671,
+    "ratings_total": 2674,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:06.626Z"
+    "asOf": "2026-06-11T22:14:24.498Z"
   },
   "B0929H74WF": {
     "value": 17.99,
@@ -2725,464 +2668,453 @@
     "rating": 4.8,
     "ratings_total": 56,
     "in_stock": true,
-    "availability": "Only 12 left in stock - order soon.",
+    "availability": "Only 10 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:08.772Z"
+    "asOf": "2026-06-11T22:14:25.358Z"
   },
   "B07Q1K4H2L": {
     "value": 75,
     "raw": "$75.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:11.021Z"
+    "asOf": "2026-06-11T22:14:26.499Z"
   },
   "B07Q2CDNWD": {
     "value": 59,
     "raw": "$59.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": false,
-    "availability": "In Stock",
-    "redirected": true,
-    "returned_asin": "B0D1MRQMS2",
+    "availability": "Temporarily out of stock.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:13.069Z"
+    "asOf": "2026-06-11T22:14:27.503Z"
   },
   "B07Q1K34HZ": {
     "value": 59,
     "raw": "$59.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
-    "availability": "Only 11 left in stock - order soon.",
+    "availability": "Only 7 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:14.924Z"
+    "asOf": "2026-06-11T22:14:29.859Z"
   },
   "B07PX3Y4VR": {
     "value": 69,
     "raw": "$69.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:17.327Z"
+    "asOf": "2026-06-11T22:14:31.334Z"
   },
   "B07PZF42HZ": {
     "value": 85,
     "raw": "$85.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:17.886Z"
+    "asOf": "2026-06-11T22:14:32.666Z"
   },
   "B0D1MRQMS2": {
     "value": 59,
     "raw": "$59.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:19.988Z"
-  },
-  "B0D1MW2999": {
-    "value": 59,
-    "raw": "$59.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 791,
-    "in_stock": true,
-    "availability": "Only 13 left in stock - order soon.",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:07:21.395Z"
+    "asOf": "2026-06-11T22:14:34.247Z"
   },
   "B0D1MWF8Q9": {
     "value": 75,
     "raw": "$75.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": false,
     "availability": "Usually ships within 1 to 2 months",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:24.242Z"
-  },
-  "B0D1MVR4JN": {
-    "value": 85,
-    "raw": "$85.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 791,
-    "in_stock": false,
-    "availability": "Usually ships within 1 to 2 months",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:07:25.276Z"
+    "asOf": "2026-06-11T22:14:38.767Z"
   },
   "B0D1MHWQDH": {
     "value": 85,
     "raw": "$85.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": false,
     "availability": "Usually ships within 1 to 2 months",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:27.104Z"
+    "asOf": "2026-06-11T22:14:40.916Z"
   },
   "B09VL8NZBL": {
     "value": 59,
     "raw": "$59.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
-    "availability": "Only 4 left in stock - order soon.",
+    "availability": "Only 3 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:27.177Z"
+    "asOf": "2026-06-11T22:14:45.238Z"
+  },
+  "B0D1MW2999": {
+    "value": 59,
+    "raw": "$59.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 793,
+    "in_stock": true,
+    "availability": "Only 13 left in stock - order soon.",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:14:47.007Z"
   },
   "B09VL7HLJT": {
     "value": 59,
     "raw": "$59.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
     "availability": "Only 10 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:32.020Z"
+    "asOf": "2026-06-11T22:14:48.289Z"
+  },
+  "B0D1MVR4JN": {
+    "value": 85,
+    "raw": "$85.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 793,
+    "in_stock": false,
+    "availability": "Usually ships within 1 to 2 months",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:14:49.637Z"
   },
   "B09VL82PTX": {
     "value": 75,
     "raw": "$75.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:33.345Z"
+    "asOf": "2026-06-11T22:14:50.956Z"
   },
   "B09VLBDGWM": {
     "value": 85,
     "raw": "$85.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
-    "availability": "Only 8 left in stock - order soon.",
+    "availability": "Only 5 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:34.490Z"
+    "asOf": "2026-06-11T22:14:53.206Z"
   },
   "B09VL8DV3B": {
     "value": 85,
     "raw": "$85.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
-    "availability": "Only 7 left in stock - order soon.",
+    "availability": "Only 6 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:35.568Z"
-  },
-  "B0DY7XCWHQ": {
-    "value": 75,
-    "raw": "$75.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 791,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:07:37.700Z"
+    "asOf": "2026-06-11T22:14:53.742Z"
   },
   "B0DY7YC552": {
     "value": 85,
     "raw": "$85.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:40.825Z"
+    "asOf": "2026-06-11T22:14:56.960Z"
+  },
+  "B0DY7XCWHQ": {
+    "value": 75,
+    "raw": "$75.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 793,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:14:59.289Z"
   },
   "B0DJJJHDYH": {
     "value": 85,
     "raw": "$85.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
-    "availability": "Only 9 left in stock - order soon.",
+    "availability": "Only 7 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:42.456Z"
-  },
-  "B07PX3ZGX2": {
-    "value": 59,
-    "raw": "$59.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 791,
-    "in_stock": true,
-    "availability": "Only 18 left in stock - order soon.",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:07:43.671Z"
+    "asOf": "2026-06-11T22:14:59.872Z"
   },
   "B0DJJNR13B": {
     "value": 75,
     "raw": "$75.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:43.674Z"
+    "asOf": "2026-06-11T22:15:02.901Z"
+  },
+  "B07PX3ZGX2": {
+    "value": 59,
+    "raw": "$59.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 793,
+    "in_stock": true,
+    "availability": "Only 18 left in stock - order soon.",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:15:05.846Z"
   },
   "B07Q2CRX2K": {
     "value": 69,
     "raw": "$69.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
     "availability": "Only 2 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:46.626Z"
-  },
-  "B09KPST2MC": {
-    "value": 59,
-    "raw": "$59.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 791,
-    "in_stock": false,
-    "availability": "Temporarily out of stock.",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:07:48.761Z"
+    "asOf": "2026-06-11T22:15:06.034Z"
   },
   "B07Q1K3YCG": {
     "value": 75,
     "raw": "$75.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
     "availability": "Only 16 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:48.873Z"
+    "asOf": "2026-06-11T22:15:06.720Z"
   },
   "B07PZF6PB2": {
     "value": 85,
     "raw": "$85.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
-    "availability": "Only 7 left in stock - order soon.",
+    "availability": "Only 6 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:51.367Z"
+    "asOf": "2026-06-11T22:15:09.012Z"
   },
-  "B09KPTLB98": {
+  "B09KPST2MC": {
     "value": 59,
     "raw": "$59.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
-    "in_stock": true,
-    "availability": "In Stock",
+    "ratings_total": 793,
+    "in_stock": false,
+    "availability": "Temporarily out of stock.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:53.526Z"
+    "asOf": "2026-06-11T22:15:11.576Z"
   },
   "B09KPSTBDX": {
     "value": 69,
     "raw": "$69.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
-    "in_stock": true,
-    "availability": "Only 1 left in stock - order soon.",
+    "ratings_total": 793,
+    "in_stock": false,
+    "availability": "Temporarily out of stock.",
+    "redirected": true,
+    "returned_asin": "B09VL8X3GW",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:54.952Z"
+    "asOf": "2026-06-11T22:15:13.087Z"
+  },
+  "B09KPTLB98": {
+    "value": 59,
+    "raw": "$59.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 793,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:15:13.153Z"
   },
   "B09KPST5SQ": {
     "value": 75,
     "raw": "$75.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": false,
     "availability": "Usually ships within 1 to 2 months",
     "redirected": true,
     "returned_asin": "B0D1MWF8Q9",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:55.074Z"
+    "asOf": "2026-06-11T22:15:16.565Z"
   },
   "B09KPQYRLL": {
     "value": 85,
     "raw": "$85.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
-    "in_stock": true,
-    "availability": "Only 13 left in stock - order soon.",
+    "ratings_total": 793,
+    "in_stock": false,
+    "availability": null,
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:57.615Z"
+    "asOf": "2026-06-11T22:15:17.166Z"
   },
   "B07Q1K4229": {
     "value": 59,
     "raw": "$59.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": false,
     "availability": "Temporarily out of stock.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:07:58.739Z"
+    "asOf": "2026-06-11T22:15:18.556Z"
   },
   "B07VNHB8FP": {
     "value": 69,
     "raw": "$69.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
-    "in_stock": true,
-    "availability": "Only 1 left in stock - order soon.",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:08:00.630Z"
-  },
-  "B07VQLKBQZ": {
-    "value": 75,
-    "raw": "$75.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 791,
-    "in_stock": true,
-    "availability": "Only 3 left in stock - order soon.",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:08:01.059Z"
-  },
-  "B07NRV2YYJ": {
-    "value": 85,
-    "raw": "$85.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": false,
     "availability": "Temporarily out of stock.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:04.271Z"
+    "asOf": "2026-06-11T22:15:22.111Z"
   },
   "B07PZF6VVD": {
     "value": 85,
     "raw": "$85.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": false,
     "availability": "Temporarily out of stock.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:04.304Z"
+    "asOf": "2026-06-11T22:15:22.277Z"
+  },
+  "B07VQLKBQZ": {
+    "value": 75,
+    "raw": "$75.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 793,
+    "in_stock": true,
+    "availability": "Only 2 left in stock - order soon.",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:15:23.943Z"
+  },
+  "B07NRV2YYJ": {
+    "value": 85,
+    "raw": "$85.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 793,
+    "in_stock": false,
+    "availability": "Temporarily out of stock.",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:15:25.571Z"
   },
   "B07PZF6SPJ": {
     "value": 59,
     "raw": "$59.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:06.834Z"
+    "asOf": "2026-06-11T22:15:27.611Z"
   },
   "B07Q2GLNV4": {
     "value": 59,
     "raw": "$59.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
-    "availability": "In Stock",
+    "availability": "Only 18 left in stock - order soon.",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:07.822Z"
-  },
-  "B085265XB1": {
-    "value": 75,
-    "raw": "$75.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 791,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:08:11.138Z"
+    "asOf": "2026-06-11T22:15:27.715Z"
   },
   "B07PZF6PGY": {
     "value": 69,
     "raw": "$69.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:11.401Z"
+    "asOf": "2026-06-11T22:15:30.990Z"
+  },
+  "B085265XB1": {
+    "value": 75,
+    "raw": "$75.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 793,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:15:31.724Z"
   },
   "B07Q1K42VV": {
     "value": 85,
     "raw": "$85.00",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 791,
+    "ratings_total": 793,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:12.976Z"
-  },
-  "B07PZF5R6V": {
-    "value": 85,
-    "raw": "$85.00",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 791,
-    "in_stock": false,
-    "availability": null,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:08:14.212Z"
-  },
-  "B071Z7ZL6R": {
-    "value": 7.99,
-    "raw": "$7.99",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 8531,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:08:17.176Z"
+    "asOf": "2026-06-11T22:15:34.677Z"
   },
   "B0769N355B": {
     "value": 7.99,
     "raw": "$7.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 8531,
+    "ratings_total": 8546,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:17.461Z"
+    "asOf": "2026-06-11T22:15:37.033Z"
+  },
+  "B07PZF5R6V": {
+    "value": 85,
+    "raw": "$85.00",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 793,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:15:39.726Z"
   },
   "B0CF9CHHB8": {
     "value": 6.45,
@@ -3193,7 +3125,18 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:18.820Z"
+    "asOf": "2026-06-11T22:15:41.058Z"
+  },
+  "B071Z7ZL6R": {
+    "value": 7.99,
+    "raw": "$7.99",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 8546,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:15:41.345Z"
   },
   "B0CF9B2HQ9": {
     "value": 6.45,
@@ -3204,7 +3147,7 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:21.250Z"
+    "asOf": "2026-06-11T22:15:43.481Z"
   },
   "B0CF9D4BZK": {
     "value": null,
@@ -3216,7 +3159,7 @@
     "availability": null,
     "no_buybox": true,
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:22.830Z"
+    "asOf": "2026-06-11T22:15:44.890Z"
   },
   "B0CFBPLWGD": {
     "value": 4.95,
@@ -3227,7 +3170,7 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:23.420Z"
+    "asOf": "2026-06-11T22:15:47.222Z"
   },
   "B0CFC86DQV": {
     "value": 5.95,
@@ -3238,7 +3181,7 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:24.249Z"
+    "asOf": "2026-06-11T22:15:47.568Z"
   },
   "B0CFCJ8LY8": {
     "value": 6.45,
@@ -3249,95 +3192,106 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:28.789Z"
+    "asOf": "2026-06-11T22:15:49.421Z"
   },
   "B00AV4Y0IS": {
     "value": 45.99,
     "raw": "$45.99",
     "currency": "USD",
     "rating": 4.7,
-    "ratings_total": 7870,
+    "ratings_total": 7875,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:29.011Z"
+    "asOf": "2026-06-11T22:15:52.699Z"
   },
   "B00E8X6TVO": {
     "value": 42.99,
     "raw": "$42.99",
     "currency": "USD",
     "rating": 4.7,
-    "ratings_total": 7870,
+    "ratings_total": 7875,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:29.321Z"
+    "asOf": "2026-06-11T22:15:52.778Z"
   },
   "B0188UMWD6": {
     "value": 45.99,
     "raw": "$45.99",
     "currency": "USD",
     "rating": 4.7,
-    "ratings_total": 7870,
+    "ratings_total": 7875,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:30.280Z"
-  },
-  "B00CU8VNKG": {
-    "value": 42.99,
-    "raw": "$42.99",
-    "currency": "USD",
-    "rating": 4.7,
-    "ratings_total": 7870,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:08:36.772Z"
-  },
-  "B00A6IY8AO": {
-    "value": 45.99,
-    "raw": "$45.99",
-    "currency": "USD",
-    "rating": 4.7,
-    "ratings_total": 7870,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:08:36.979Z"
+    "asOf": "2026-06-11T22:15:54.440Z"
   },
   "B00C0PBH4Q": {
     "value": 42.99,
     "raw": "$42.99",
     "currency": "USD",
     "rating": 4.7,
-    "ratings_total": 7870,
+    "ratings_total": 7875,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:37.722Z"
+    "asOf": "2026-06-11T22:15:55.217Z"
   },
   "B00QQ368N8": {
     "value": 45.99,
     "raw": "$45.99",
     "currency": "USD",
     "rating": 4.7,
-    "ratings_total": 7870,
+    "ratings_total": 7875,
+    "in_stock": true,
+    "availability": "Only 15 left in stock - order soon.",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:16:00.727Z"
+  },
+  "B00A6IY8AO": {
+    "value": 45.99,
+    "raw": "$45.99",
+    "currency": "USD",
+    "rating": 4.7,
+    "ratings_total": 7875,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:38.295Z"
+    "asOf": "2026-06-11T22:16:01.308Z"
   },
   "B09QKP7D6C": {
     "value": 42.99,
     "raw": "$42.99",
     "currency": "USD",
     "rating": 4.7,
-    "ratings_total": 7870,
+    "ratings_total": 7875,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:44.311Z"
+    "asOf": "2026-06-11T22:16:02.011Z"
+  },
+  "B00CU8VNKG": {
+    "value": 42.99,
+    "raw": "$42.99",
+    "currency": "USD",
+    "rating": 4.7,
+    "ratings_total": 7875,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:16:03.862Z"
+  },
+  "B00MLWXTRQ": {
+    "value": 49.99,
+    "raw": "$49.99",
+    "currency": "USD",
+    "rating": 4.7,
+    "ratings_total": 7875,
+    "in_stock": true,
+    "availability": "Only 6 left in stock - order soon.",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:16:06.955Z"
   },
   "B01FVCC20M": {
     "value": 10.99,
@@ -3348,18 +3302,7 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:45.137Z"
-  },
-  "B00MLWXTRQ": {
-    "value": 49.99,
-    "raw": "$49.99",
-    "currency": "USD",
-    "rating": 4.7,
-    "ratings_total": 7870,
-    "in_stock": true,
-    "availability": "Only 10 left in stock - order soon.",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:08:45.498Z"
+    "asOf": "2026-06-11T22:16:08.883Z"
   },
   "B07JKSZBLL": {
     "value": 10.99,
@@ -3370,7 +3313,7 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:45.855Z"
+    "asOf": "2026-06-11T22:16:09.296Z"
   },
   "B097SDG5F8": {
     "value": 9.99,
@@ -3381,7 +3324,7 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:50.420Z"
+    "asOf": "2026-06-11T22:16:11.031Z"
   },
   "B0CL7YN818": {
     "value": 9.99,
@@ -3392,18 +3335,7 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:50.597Z"
-  },
-  "B0F8B6SVX1": {
-    "value": 9.99,
-    "raw": "$9.99",
-    "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 647,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:08:51.493Z"
+    "asOf": "2026-06-11T22:16:12.472Z"
   },
   "B0F8B4PNX3": {
     "value": 9.99,
@@ -3414,267 +3346,278 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:51.607Z"
+    "asOf": "2026-06-11T22:16:13.795Z"
   },
-  "B0FV3L753L": {
-    "value": 12.99,
-    "raw": "$12.99",
+  "B0F8B6SVX1": {
+    "value": 9.99,
+    "raw": "$9.99",
     "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 92,
+    "rating": 4.6,
+    "ratings_total": 647,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:55.648Z"
+    "asOf": "2026-06-11T22:16:14.684Z"
   },
   "B08747HZYN": {
     "value": 11.99,
     "raw": "$11.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 92,
+    "ratings_total": 93,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:56.517Z"
+    "asOf": "2026-06-11T22:16:16.846Z"
+  },
+  "B0FV3L753L": {
+    "value": 12.99,
+    "raw": "$12.99",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 93,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:16:17.789Z"
   },
   "B0GSCCNVM9": {
     "value": 13.99,
     "raw": "$13.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 92,
+    "ratings_total": 93,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:58.650Z"
+    "asOf": "2026-06-11T22:16:18.705Z"
   },
   "B0DL65XWXC": {
     "value": 13.99,
     "raw": "$13.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 92,
+    "ratings_total": 93,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:08:58.809Z"
+    "asOf": "2026-06-11T22:16:19.221Z"
   },
   "B097SCDQ9M": {
     "value": 12.99,
     "raw": "$12.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 92,
+    "ratings_total": 93,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:01.273Z"
+    "asOf": "2026-06-11T22:16:22.109Z"
   },
   "B0DL68MZ6W": {
     "value": 13.99,
     "raw": "$13.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 92,
+    "ratings_total": 93,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:02.640Z"
+    "asOf": "2026-06-11T22:16:23.108Z"
   },
   "B0FW71RM4Z": {
     "value": 12.99,
     "raw": "$12.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 92,
+    "ratings_total": 93,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:03.354Z"
-  },
-  "B0DQQQZKDQ": {
-    "value": 12.99,
-    "raw": "$12.99",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 92,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:09:06.284Z"
+    "asOf": "2026-06-11T22:16:24.700Z"
   },
   "B0D3PJNXBQ": {
     "value": 11.99,
     "raw": "$11.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 92,
+    "ratings_total": 93,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:07.211Z"
+    "asOf": "2026-06-11T22:16:25.019Z"
   },
   "B097SCPSVN": {
     "value": 12.99,
     "raw": "$12.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 92,
+    "ratings_total": 93,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:08.272Z"
+    "asOf": "2026-06-11T22:16:28.463Z"
   },
   "B08R6F7WCM": {
     "value": 11.99,
     "raw": "$11.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 92,
+    "ratings_total": 93,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:16:28.535Z"
+  },
+  "B0DQQQZKDQ": {
+    "value": 12.99,
+    "raw": "$12.99",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 93,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:09.967Z"
+    "asOf": "2026-06-11T22:16:28.861Z"
   },
   "B0DL68XFS3": {
     "value": 13.99,
     "raw": "$13.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 92,
+    "ratings_total": 93,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:11.035Z"
-  },
-  "B0DL66ZTJS": {
-    "value": 13.99,
-    "raw": "$13.99",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 92,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:09:12.058Z"
+    "asOf": "2026-06-11T22:16:30.278Z"
   },
   "B08SS93SZF": {
     "value": null,
     "raw": null,
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 92,
+    "ratings_total": 93,
     "in_stock": false,
-    "availability": "Currently unavailable.",
+    "availability": null,
     "no_buybox": true,
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:12.723Z"
+    "asOf": "2026-06-11T22:16:32.598Z"
   },
   "B0FW6SZ3RF": {
     "value": null,
     "raw": null,
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 92,
+    "ratings_total": 93,
     "in_stock": false,
     "availability": "Currently unavailable.",
     "no_buybox": true,
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:14.973Z"
+    "asOf": "2026-06-11T22:16:33.305Z"
   },
-  "B08R6CYVMN": {
-    "value": 12.99,
-    "raw": "$12.99",
+  "B0DL66ZTJS": {
+    "value": 13.99,
+    "raw": "$13.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 92,
-    "in_stock": false,
+    "ratings_total": 93,
+    "in_stock": true,
     "availability": "In Stock",
-    "redirected": true,
-    "returned_asin": "B0FV3L753L",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:17.097Z"
+    "asOf": "2026-06-11T22:16:34.721Z"
   },
   "B0FW73Y5TG": {
     "value": null,
     "raw": null,
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 92,
+    "ratings_total": 93,
     "in_stock": false,
     "availability": "Currently unavailable.",
     "no_buybox": true,
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:17.120Z"
+    "asOf": "2026-06-11T22:16:35.348Z"
+  },
+  "B08R6CYVMN": {
+    "value": 12.99,
+    "raw": "$12.99",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 93,
+    "in_stock": false,
+    "availability": "In Stock",
+    "redirected": true,
+    "returned_asin": "B0FV3L753L",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:16:37.346Z"
   },
   "B0874PS5CW": {
     "value": 12.99,
     "raw": "$12.99",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 92,
+    "ratings_total": 93,
     "in_stock": false,
     "availability": "In Stock",
     "redirected": true,
     "returned_asin": "B0FV3L753L",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:18.204Z"
-  },
-  "B00MBIMLLA": {
-    "value": 8.59,
-    "raw": "$8.59",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 1264,
-    "in_stock": true,
-    "availability": "Only 12 left in stock - order soon.",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:09:22.598Z"
-  },
-  "B0BYJH7R9D": {
-    "value": 23.99,
-    "raw": "$23.99",
-    "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 1352,
-    "in_stock": true,
-    "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:09:22.603Z"
+    "asOf": "2026-06-11T22:16:39.394Z"
   },
   "B000VI3LNE": {
-    "value": 9.09,
-    "raw": "$9.09",
+    "value": 9,
+    "raw": "$9.00",
     "currency": "USD",
     "rating": 4.6,
     "ratings_total": 707,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:23.219Z"
+    "asOf": "2026-06-11T22:16:41.347Z"
+  },
+  "B0BYJH7R9D": {
+    "value": 23.99,
+    "raw": "$23.99",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 1363,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:16:41.931Z"
+  },
+  "B00MBIMLLA": {
+    "value": 8.68,
+    "raw": "$8.68",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 1256,
+    "in_stock": true,
+    "availability": "Only 1 left in stock - order soon.",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:16:44.812Z"
   },
   "B0BZGVCW1Z": {
     "value": 23.5,
     "raw": "$23.50",
     "currency": "USD",
     "rating": 4.5,
-    "ratings_total": 33627,
+    "ratings_total": 33735,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:25.591Z"
+    "asOf": "2026-06-11T22:16:45.999Z"
   },
   "B00JAP2IPQ": {
-    "value": 30.38,
-    "raw": "$30.38",
+    "value": 30.59,
+    "raw": "$30.59",
     "currency": "USD",
     "rating": 4.4,
-    "ratings_total": 3000,
+    "ratings_total": 3013,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:28.271Z"
+    "asOf": "2026-06-11T22:16:47.503Z"
   },
   "B09HGSKD23": {
     "value": 51.95,
@@ -3685,18 +3628,20 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:29.388Z"
+    "asOf": "2026-06-11T22:16:48.611Z"
   },
   "B09HGZ1MK9": {
-    "value": 49.95,
-    "raw": "$49.95",
+    "value": 51.95,
+    "raw": "$51.95",
     "currency": "USD",
     "rating": 4.3,
     "ratings_total": 340,
-    "in_stock": true,
+    "in_stock": false,
     "availability": "In Stock",
+    "redirected": true,
+    "returned_asin": "B09HGSKD23",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:30.515Z"
+    "asOf": "2026-06-11T22:16:51.344Z"
   },
   "B09HGW2SKB": {
     "value": 49.95,
@@ -3707,7 +3652,7 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:32.347Z"
+    "asOf": "2026-06-11T22:16:52.739Z"
   },
   "B09HG8ZX1V": {
     "value": 49.95,
@@ -3718,7 +3663,7 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:34.657Z"
+    "asOf": "2026-06-11T22:16:53.096Z"
   },
   "B09HG9VP2H": {
     "value": 51.95,
@@ -3726,34 +3671,12 @@
     "currency": "USD",
     "rating": 4.3,
     "ratings_total": 340,
-    "in_stock": true,
+    "in_stock": false,
     "availability": "In Stock",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:09:36.534Z"
-  },
-  "B09HGFTYVW": {
-    "value": 49.95,
-    "raw": "$49.95",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 340,
-    "in_stock": false,
-    "availability": null,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:09:36.965Z"
-  },
-  "B09HGGX4Q5": {
-    "value": 49.95,
-    "raw": "$49.95",
-    "currency": "USD",
-    "rating": 4.3,
-    "ratings_total": 340,
-    "in_stock": false,
-    "availability": null,
     "redirected": true,
-    "returned_asin": "B09HGFTYVW",
+    "returned_asin": "B09HGSKD23",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:40.631Z"
+    "asOf": "2026-06-11T22:16:55.269Z"
   },
   "B09HGMTDKT": {
     "value": 51.95,
@@ -3764,84 +3687,393 @@
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:41.147Z"
+    "asOf": "2026-06-11T22:16:57.450Z"
   },
-  "B000KBNTM0": {
-    "value": null,
-    "raw": null,
+  "B09HGFTYVW": {
+    "value": 49.95,
+    "raw": "$49.95",
     "currency": "USD",
-    "rating": 4.6,
-    "ratings_total": 5943,
-    "in_stock": false,
-    "availability": null,
-    "no_buybox": true,
-    "zip": "74110",
-    "asOf": "2026-06-05T17:09:42.072Z"
-  },
-  "B005P0FTYM": {
-    "value": 7.66,
-    "raw": "$7.66",
-    "currency": "USD",
-    "rating": 4.5,
-    "ratings_total": 2346,
-    "in_stock": true,
-    "availability": "Only 6 left in stock - order soon.",
-    "zip": "74110",
-    "asOf": "2026-06-05T17:09:42.678Z"
-  },
-  "B000E8SVR2": {
-    "value": 3.99,
-    "raw": "$3.99",
-    "currency": "USD",
-    "rating": 4.7,
-    "ratings_total": 2595,
+    "rating": 4.3,
+    "ratings_total": 340,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:46.277Z"
+    "asOf": "2026-06-11T22:16:57.454Z"
+  },
+  "B09HGGX4Q5": {
+    "value": 49.95,
+    "raw": "$49.95",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 340,
+    "in_stock": false,
+    "availability": "In Stock",
+    "redirected": true,
+    "returned_asin": "B09HGFTYVW",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:16:58.541Z"
   },
   "B07N52NLC3": {
     "value": 14.99,
     "raw": "$14.99",
     "currency": "USD",
     "rating": 4.7,
-    "ratings_total": 7700,
+    "ratings_total": 7711,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:48.005Z"
+    "asOf": "2026-06-11T22:17:05.505Z"
+  },
+  "B005P0FTYM": {
+    "value": 7.74,
+    "raw": "$7.74",
+    "currency": "USD",
+    "rating": 4.5,
+    "ratings_total": 2347,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:05.613Z"
+  },
+  "B000KBNTM0": {
+    "value": 6.99,
+    "raw": "$6.99",
+    "currency": "USD",
+    "rating": 4.6,
+    "ratings_total": 5957,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:09.346Z"
   },
   "B08GKBWFGZ": {
     "value": 24.99,
     "raw": "$24.99",
     "currency": "USD",
     "rating": 4.7,
-    "ratings_total": 7700,
+    "ratings_total": 7711,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:49.540Z"
+    "asOf": "2026-06-11T22:17:12.162Z"
   },
   "B01N2G8S70": {
     "value": 8.99,
     "raw": "$8.99",
     "currency": "USD",
     "rating": 4.6,
-    "ratings_total": 3584,
+    "ratings_total": 3589,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:50.155Z"
+    "asOf": "2026-06-11T22:17:12.428Z"
+  },
+  "B000E8SVR2": {
+    "value": 3.99,
+    "raw": "$3.99",
+    "currency": "USD",
+    "rating": 4.7,
+    "ratings_total": 2604,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:13.463Z"
   },
   "B07H4DZNWS": {
     "value": 6.97,
     "raw": "$6.97",
     "currency": "USD",
     "rating": 4.7,
-    "ratings_total": 8346,
+    "ratings_total": 8381,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:16.165Z"
+  },
+  "B0GS74JY7V": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:18.326Z"
+  },
+  "B0GS6YPY41": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
     "in_stock": true,
     "availability": "In Stock",
     "zip": "74110",
-    "asOf": "2026-06-05T17:09:53.031Z"
+    "asOf": "2026-06-11T22:17:21.209Z"
+  },
+  "B0GS74J48C": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:21.691Z"
+  },
+  "B0B6N3X665": {
+    "value": 27.97,
+    "raw": "$27.97",
+    "currency": "USD",
+    "rating": 4.2,
+    "ratings_total": 27,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:22.507Z"
+  },
+  "B0GS79NPB4": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:25.792Z"
+  },
+  "B0GS74Z7L1": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:26.888Z"
+  },
+  "B0GS71QRM1": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:26.972Z"
+  },
+  "B0GS6YZX2W": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:27.854Z"
+  },
+  "B0GS732BQC": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:31.038Z"
+  },
+  "B0GS736QDW": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:32.027Z"
+  },
+  "B0GV2DXJLX": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:32.949Z"
+  },
+  "B0GVKSHRBN": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:33.756Z"
+  },
+  "B0GS779BH7": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:36.047Z"
+  },
+  "B0GVKQWWH5": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:38.887Z"
+  },
+  "B0GVH5H42G": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:39.025Z"
+  },
+  "B0GS6ZCJRH": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:39.289Z"
+  },
+  "B0GS76NW18": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "Only 5 left in stock - order soon.",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:44.317Z"
+  },
+  "B0GS77GXD9": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:44.321Z"
+  },
+  "B0GS7HJBN1": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:44.995Z"
+  },
+  "B0GS76Z5JQ": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:48.065Z"
+  },
+  "B0GS79VVKY": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:49.741Z"
+  },
+  "B0GS771NCG": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:52.080Z"
+  },
+  "B0GS6ZBLYH": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:55.925Z"
+  },
+  "B0GS76HYZM": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:57.651Z"
+  },
+  "B0GS76ZNCS": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": true,
+    "availability": "In Stock",
+    "zip": "74110",
+    "asOf": "2026-06-11T22:17:58.345Z"
+  },
+  "B0GS748JV4": {
+    "value": 20,
+    "raw": "$20.00",
+    "currency": "USD",
+    "rating": 4.3,
+    "ratings_total": 24904,
+    "in_stock": false,
+    "availability": null,
+    "zip": "74110",
+    "asOf": "2026-06-11T22:18:06.209Z"
   }
 }
